@@ -14,12 +14,17 @@ export const Footer = () => {
     <footer className={cn(font.className, styles.footer)}>
       <section className={styles.container}>
         <p className={styles.logoText}>
+          <span>AION Stigmas Builder (Classic 2.4) FR Modifier par Lunastellia</span>
+        </p>
+        <span className={styles.secondaryText}> 
+          <p className={styles.logoText}>
           <span>Ai</span>
           <img src={"images/aion.svg"} className={styles.logo} alt="o" />
           <span>n </span>
           <span> classic 2.4</span>
+           <span> <a href="https://persepha.github.io/Aion-classic-stigma-calculator/" > Version original en Anglais, par persepha</a>stigma calculator</span>
         </p>
-        <span className={styles.secondaryText}>stigma calculator</span>
+          
       </section>
     </footer>
   );
