@@ -14,10 +14,10 @@ export const Footer = () => {
         <footer className={cn(font.className, styles.footer)}>
             <section className={styles.container}>
                 <p className={styles.logoText}>
-                    <img src={"images/logoDiscord.png"} className={styles.logo} alt="logoDiscord" />
+                    <img src={"images/logoDiscord.svg"} className={styles.logo} alt="logoDiscord" />
                     <span><a href="https://discord.gg/3KFcCyNZjU" className={styles.link}> Discord</a>
                        <span>, </span> 
-                     <img src={"images/logoGithub.png"} className={styles.logo} alt="logoGithub" />
+                     <img src={"images/logoGithub.svg"} className={styles.logo} alt="logoGithub" />
                     <span><a href="https://github.com/Lunastellia/AionClassicFR" className={styles.link}> Github</a>
                     <span> Par Lunastellia.</span> 
                     <br />
