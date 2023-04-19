@@ -20,6 +20,14 @@ export const Footer = () => {
                     <span><a href="https://persepha.github.io/Aion-classic-stigma-calculator/" className={styles.link}>Version Original</a> (Anglais) by <a href="https://github.com/Persepha/Aion-classic-stigma-calculator" className={styles.link}>Persepha</a>.</span>
                 </p>
             </section>
+            <section className={styles.container}>
+                <p className={styles.logoText}>
+                    <span>Ai</span>
+                    <img src={"images/aion.svg"} className={styles.logo} alt="o" />
+                    <span>n </span>
+                    <span><a href="https://persepha.github.io/Aion-classic-stigma-calculator/" className={styles.link}>Version Original</a> (Anglais) by <a href="https://github.com/Persepha/Aion-classic-stigma-calculator" className={styles.link}>Persepha</a>.</span>
+                </p>
+            </section>
         </footer>
     );
 };
