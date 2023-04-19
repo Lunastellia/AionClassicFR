@@ -1,5 +1,6 @@
 
 # Aion stigma calculator
+https://lunastellia.github.io/AionClassicFR/
 
 • Aion classic Calculateur de stigma (Fr). Mise à jour Aion Classic EU (patch d'équilibrage KR 2.4.
 
