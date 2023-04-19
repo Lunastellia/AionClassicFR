@@ -1,0 +1,91 @@
+:root {
+  --font-size-sm: 1.6rem;
+  --accent-color: #00c9ab;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+  height: 100%;
+}
+
+body {
+  font-size: var(--font-size-sm);
+  line-height: 1.5;
+
+  height: 100%;
+  background-size: cover;
+  background-position: 50%;
+
+  background-image: url("/Aion-classic-stigma-calculator/images/bg.jpg");
+  background-repeat: no-repeat;
+
+
+  background-color: hsl(0 0% 0% / 0.4);
+  background-blend-mode: darken;
+
+  overflow: hidden;
+}
+
+.ctr {
+  margin-top: 5rem;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.stigmaCalculator{
+  height: 100vh;
+  overflow-y: auto;
+  overflow-x: hidden;
+
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+
+  padding: 2rem 2rem 0 2rem;
+}
+
+.stigmaCalculator::-webkit-scrollbar {
+  width: 0.45rem;
+}
+
+.stigmaCalculator::-webkit-scrollbar-track {
+  background: hsl(0 0% 0% / 0.6);
+}
+
+.stigmaCalculator::-webkit-scrollbar-thumb {
+  background: var(--accent-color);
+}
+
+.sp {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+
+  /*margin-bottom: 2rem;*/
+}
+
+.stigmaCostPanel {
+  background-color: hsl(0 0% 0% / 0.6);
+  border-radius: 25px;
+}
+
+.flexColumn {
+  display: flex;
+  flex-direction: column;
+  gap: .5rem
+}
+
+.dataPickerPanel {
+  display: flex;
+  gap: .5rem;
+}

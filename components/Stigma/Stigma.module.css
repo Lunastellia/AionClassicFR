@@ -1,0 +1,217 @@
+.tooltip {
+    position: relative;
+}
+
+.blockedOverlay {
+    position:absolute;
+    background-color: darkred;
+    opacity:0.7;
+    height:40px;
+    width:40px;
+
+    -webkit-box-shadow:0px 0px 5px 2px darkred;
+    -moz-box-shadow: 0px 0px 5px 2px darkred;
+    box-shadow: 0px 0px 5px 2px darkred;
+}
+
+.selectedOverlay {
+    position: absolute;
+    height:40px;
+    width:40px;
+
+    -webkit-box-shadow:0px 0px 5px 2px #00c9ab;
+    -moz-box-shadow: 0px 0px 5px 2px #00c9ab;
+    box-shadow: 0px 0px 5px 2px #00c9ab;
+}
+
+.notEnoughSlots {
+    position: absolute;
+    background: linear-gradient(90deg, rgba(245,247,250,1) 0%, rgba(184,198,219,1) 100%);
+    opacity:0.7;
+    height:40px;
+    width:40px;
+
+    -webkit-box-shadow:0px 0px 5px 2px #B8C6DB;
+    -moz-box-shadow: 0px 0px 5px 2px #B8C6DB;
+    box-shadow: 0px 0px 5px 2px #B8C6DB;
+}
+
+.stigmaContainer:hover .tooltiptext{
+    visibility: visible;
+}
+
+.stigmaContainer {
+    cursor: pointer;
+
+    height: 40px;
+    width: 45px;
+
+    display: flex;
+
+    position: relative;
+}
+
+.blocked {
+    display: block;
+}
+
+.blockedCursor {
+    cursor: not-allowed;
+}
+
+.blockedText {
+    background-color: #CA3E47;
+    border-radius: 6px;
+    padding: 3px 6px;
+
+}
+
+.selectedStigma {
+    height: 80px;
+    width: 80px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: calc(28rem + .5rem);
+
+
+    position: absolute;
+    z-index: 10;
+}
+
+.lvls {
+    visibility: hidden;
+    position: absolute;
+    z-index: 1;
+    top: -5px;
+
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.tooltip .tooltiptextArrow {
+    content: "";
+    position: absolute;
+    border-width: 5px;
+    border-style: solid;
+}
+
+.selectedStigma:hover .tooltiptext{
+    visibility: visible;
+}
+
+.selectedStigma:hover .lvls{
+    visibility: visible;
+}
+
+.selectedStigma:hover .deleteButton {
+    visibility: visible;
+}
+
+.selectedStigma:hover .tooltip {
+    -webkit-box-shadow:0px 0px 5px 2px var(--accent-color);;
+    -moz-box-shadow: 0px 0px 5px 2px var(--accent-color);;
+    box-shadow: 0px 0px 5px 2px var(--accent-color);;
+}
+
+.tooltip:hover {
+    -webkit-box-shadow:0px 0px 5px 2px var(--accent-color);;
+    -moz-box-shadow: 0px 0px 5px 2px var(--accent-color);;
+    box-shadow: 0px 0px 5px 2px var(--accent-color);;
+}
+
+.divider {
+    border-bottom: 2px solid #545454;
+    padding: 2px 0;
+    height: 0;
+}
+
+.label {
+    color: #bcbcbc;
+}
+
+.lvl {
+    background-color: hsl(0 0% 6% / 0.9);
+    color: #bcbcbc;
+    -webkit-box-shadow:0px 0px 5px 2px var(--accent-color);;
+    -moz-box-shadow: 0px 0px 5px 2px var(--accent-color);;
+    box-shadow: 0px 0px 5px 2px var(--accent-color);;
+    border-radius: 6px;
+    padding: 3px 5px;
+    transition: color 0.3s ease 0s;
+    cursor: pointer;
+}
+
+.lvl:hover {
+    background-color: var(--accent-color);;
+}
+
+.selectedLvl {
+    color: white;
+    background-color: hsl(171 100% 39% / 0.9);
+
+    -webkit-box-shadow:0px 0px 5px 2px #000;
+    -moz-box-shadow: 0px 0px 5px 2px #000;
+    box-shadow: 0px 0px 5px 2px #000;
+}
+
+.desc {
+    padding: 1rem;
+
+    width: 28rem;
+
+    background-color: hsl(0 0% 6% / 0.9);
+    -webkit-box-shadow:0px 0px 5px 2px var(--accent-color);;
+    -moz-box-shadow: 0px 0px 5px 2px var(--accent-color);;
+    box-shadow: 0px 0px 5px 2px var(--accent-color);;
+    color: #fff;
+    border-radius: 6px;
+}
+
+.name {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.deleteButton {
+    visibility: hidden;
+    position: absolute;
+    z-index: 5;
+    top: 0;
+
+    height: 2rem;
+    width: 2rem;
+
+    background: none;
+    color: inherit;
+    border: none;
+    cursor: pointer;
+
+    background-color: hsl(0 0% 0% / 0.85);
+    border-radius: 50%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    transition: background-color 0.3s ease 0s;
+}
+
+.deleteButton:hover {
+    box-shadow: 0px 0px 5px 2px var(--accent-color);;
+}
+
+.icon {
+    height: 2rem;
+    width: 2rem;
+}
