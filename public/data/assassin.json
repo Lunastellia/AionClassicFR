@@ -14,7 +14,7 @@
     ],
     "50": {
       "id": 852,
-      "name": "MDash and Slash I",
+      "name": "Dash and Slash I",
       "Usage Cost": "165 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "180",
@@ -76,7 +76,7 @@
     ],
     "25": {
       "id": 803,
-      "name": "Ambush I",
+      "name": "TEST I",
       "Usage Cost": "65 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "40",
@@ -85,7 +85,7 @@
     },
     "31": {
       "id": 804,
-      "name": "Ambush II",
+      "name": "TEST II",
       "Usage Cost": "73 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "40",
@@ -94,7 +94,7 @@
     },
     "37": {
       "id": 870,
-      "name": "Ambush III",
+      "name": "TEST III",
       "Usage Cost": "79 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "40",
@@ -103,7 +103,7 @@
     },
     "43": {
       "id": 928,
-      "name": "Ambush IV",
+      "name": "TEST IV",
       "Usage Cost": "82 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "40",
@@ -112,7 +112,7 @@
     },
     "49": {
       "id": 938,
-      "name": "Ambush V",
+      "name": "TEST V",
       "Usage Cost": "82 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "40",
@@ -121,7 +121,7 @@
     },
     "55": {
       "id": 2126,
-      "name": "Ambush VI",
+      "name": "TEST VI",
       "Usage Cost": "101 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "40",
