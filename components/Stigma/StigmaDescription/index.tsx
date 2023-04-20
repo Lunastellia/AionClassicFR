@@ -87,11 +87,11 @@ export const StigmaDescription: NextPage<StigmaDescriptionProps> = ({
         </p>
         <div className={styles.divider}></div>
         <p>
-          <span className={styles.label}>Skill Type: </span>
+          <span className={styles.label}>Type : </span>
           {stigma.stigma["Skill type"]}
         </p>
         <p>
-          <span className={styles.label}>Target: </span>
+          <span className={styles.label}>Cible : </span>
           {stigma.stigma.Target}
         </p>
         <div className={styles.divider}></div>
@@ -99,19 +99,19 @@ export const StigmaDescription: NextPage<StigmaDescriptionProps> = ({
         <div className={styles.divider}></div>
         {stigma.stigma[stigmaLvl]["Usage Cost"] && (
           <p>
-            <span className={styles.label}>Usage const: </span>
+            <span className={styles.label}>Coût : </span>
             {stigma.stigma[stigmaLvl]["Usage Cost"]}
           </p>
         )}
         {stigma.stigma[stigmaLvl]["Cast time"] && (
           <p>
-            <span className={styles.label}>Cast time: </span>
+            <span className={styles.label}>Incantation : </span>
             {stigma.stigma[stigmaLvl]["Cast time"]}
           </p>
         )}
         {stigma.stigma[stigmaLvl].Cooldown && (
           <p>
-            <span className={styles.label}>Cooldown: </span>
+            <span className={styles.label}>Temps de recharge : </span>
             {stigma.stigma[stigmaLvl].Cooldown} s
           </p>
         )}
