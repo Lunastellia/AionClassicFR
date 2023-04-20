@@ -13,12 +13,12 @@
     ],
     "20": {
       "id": 1746,
-      "name": "STR",
+      "name": "Camisole de force I",
       "icon": "Body Root I",
       "Usage Cost": "108 MP",
       "Cast time": "0.5 sec",
       "Cooldown": "20",
-      "Description": "Binds a target within 25m for 6s~8s.",
+      "Description": "Entrave une cible dans un rayon de 25m pendant 6s~8s.",
       "Shards cost": 60
     }
   },
@@ -39,42 +39,42 @@
     ],
     "34": {
       "id": 1625,
-      "name": "STR",
+      "name": "Affaiblissement d'esprit I",
       "icon": "Weaken Spirit I",
       "Usage Cost": "190 MP",
       "Cast time": "2 sec",
       "Cooldown": "12",
-      "Description": "Inflicts 861 magical wind damage on a target within 25m, and deals additional 374 damage if the target is a spirit.",
+      "Description": "Inflige 861 dégâts magique de vent à une cible dans un rayon de 25m, et inflige 374 dégâts additionnel si la cible est un esprit.",
       "Shards cost": 102
     },
     "40": {
       "id": 1626,
-      "name": "STR",
+      "name": "Affaiblissement d'esprit II",
       "icon": "Weaken Spirit II",
       "Usage Cost": "216 MP",
       "Cast time": "2 sec",
       "Cooldown": "12",
-      "Description": "Inflicts 946 magical wind damage on a target within 25m, and deals additional 411 damage if the target is a spirit.",
+      "Description": "Inflige 946 dégâts magique de vent à une cible dans un rayon de 25m, et inflige 411 dégâts additionnel si la cible est un esprit.",
       "Shards cost": 120
     },
     "46": {
       "id": 1693,
-      "name": "STR",
+      "name": "Affaiblissement d'esprit III",
       "icon": "Weaken Spirit III",
       "Usage Cost": "242 MP",
       "Cast time": "2 sec",
       "Cooldown": "12",
-      "Description": "Inflicts 1061 magical wind damage on a target within 25m, and deals additional 461 damage if the target is a spirit.",
+      "Description": "Inflige 1061 dégâts magique de vent à une cible dans un rayon de 25m, et inflige 461 dégâts additionnel si la cible est un esprit.",
       "Shards cost": 138
     },
     "52": {
       "id": 2226,
-      "name": "STR",
+      "name": "Affaiblissement d'esprit IV",
       "icon": "Weaken Spirit IV",
       "Usage Cost": "278 MP",
       "Cast time": "2 sec",
       "Cooldown": "12",
-      "Description": "Inflicts 1190 magical wind damage on a target within 25m, and deals additional 518 damage if the target is a spirit.",
+      "Description": "Inflige 1190 dégâts magique de vent à une cible dans un rayon de 25m, et inflige 518 dégâts additionnel si la cible est un esprit.",
       "Shards cost": 156
     }
   },
@@ -98,72 +98,72 @@
     ],
     "20": {
       "id": 1755,
-      "name": "STR",
+      "name": "Absorption de vitalité I",
       "icon": "Absorb Vitality I",
       "Usage Cost": "109 MP",
       "Cast time": "2 sec",
       "Cooldown": "12",
-      "Description": "Deals 279 Magical Fire Damage to a target within 25m of you, and absorbs 50% of the damage as HP.",
+      "Description": "Inflige 279 dégâts magique de feu à une cible dans un rayon de 25m, et absorbe 50% des dégâts en points de vie.",
       "Shards cost": 60
     },
     "25": {
       "id": 1756,
-      "name": "STR",
+      "name": "Absorption de vitalité II",
       "icon": "Absorb Vitality II",
       "Usage Cost": "143 MP",
       "Cast time": "2 sec",
       "Cooldown": "12",
-      "Description": "Deals 332 Magical Fire Damage to a target within 25m of you, and absorbs 55% of the damage as HP.",
+      "Description": "Inflige 332 dégâts magique de feu à une cible dans un rayon de 25m, et absorbe 50% des dégâts en points de vie.",
       "Shards cost": 75
     },
     "31": {
       "id": 1757,
-      "name": "STR",
+      "name": "Absorption de vitalité III",
       "icon": "Absorb Vitality III",
       "Usage Cost": "176 MP",
       "Cast time": "2 sec",
       "Cooldown": "12",
-      "Description": "Deals 388 Magical Fire Damage to a target within 25m of you, and absorbs 60% of the damage as HP.",
+      "Description": "Inflige 388 dégâts magique de feu à une cible dans un rayon de 25m, et absorbe 50% des dégâts en points de vie.",
       "Shards cost": 93
     },
     "37": {
       "id": 1758,
-      "name": "STR",
+      "name": "Absorption de vitalité IV",
       "icon": "Absorb Vitality IV",
       "Usage Cost": "190 MP",
       "Cast time": "2 sec",
       "Cooldown": "12",
-      "Description": "Deals 431 Magical Fire Damage to a target within 25m of you, and absorbs 65% of the damage as HP.",
+      "Description": "Inflige 431 dégâts magique de feu à une cible dans un rayon de 25m, et absorbe 50% des dégâts en points de vie.",
       "Shards cost": 111
     },
     "41": {
       "id": 1779,
-      "name": "STR",
+      "name": "Absorption de vitalité V",
       "icon": "Absorb Vitality V",
       "Usage Cost": "221 MP",
       "Cast time": "2 sec",
       "Cooldown": "12",
-      "Description": "Deals 464 Magical Fire Damage to a target within 25m of you, and absorbs 70% of the damage as HP.",
+      "Description": "Inflige 464 dégâts magique de feu à une cible dans un rayon de 25m, et absorbe 50% des dégâts en points de vie.",
       "Shards cost": 123
     },
     "47": {
       "id": 1790,
-      "name": "STR",
+      "name": "Absorption de vitalité VI",
       "icon": "Absorb Vitality VI",
       "Usage Cost": "250 MP",
       "Cast time": "2 sec",
       "Cooldown": "12",
-      "Description": "Deals 514 Magical Fire Damage to a target within 25m of you, and absorbs 75% of the damage as HP.",
+      "Description": "Inflige 514 dégâts magique de feu à une cible dans un rayon de 25m, et absorbe 50% des dégâts en points de vie.",
       "Shards cost": 141
     },
     "53": {
       "id": 2229,
-      "name": "STR",
+      "name": "Absorption de vitalité VII",
       "icon": "Absorb Vitality VII",
       "Usage Cost": "284 MP",
       "Cast time": "2 sec",
       "Cooldown": "12",
-      "Description": "Deals 584 Magical Fire Damage to a target within 25m of you, and absorbs 75% of the damage as HP.",
+      "Description": "Inflige 584 dégâts magique de feu à une cible dans un rayon de 25m, et absorbe 50% des dégâts en points de vie.",
       "Shards cost": 159
     }
   },
@@ -182,12 +182,12 @@
     ],
     "52": {
       "id": 2004,
-      "name": "STR",
+      "name": "Esprit de guérison I",
       "icon": "Healing Spirit I",
       "Usage Cost": "335 MP",
       "Cast time": "Instantané",
       "Cooldown": "120",
-      "Description": "Recovers the HP of a spirit within a 15m radius by 100% and removes all magical debuffs from it.",
+      "Description": "Soigne 100% des points de vie de votre esprit (Invocation) dans un rayon de 15m et supprime toute les altérations magique sur lui.",
       "Abyss point": 78800,
       "Shards cost": 260
     }
@@ -208,22 +208,22 @@
     ],
     "40": {
       "id": 2298,
-      "name": "STR",
+      "name": "Transfert de soutien I",
       "icon": "Transference I",
       "Usage Cost": "10% HP",
       "Cast time": "1 sec",
       "Cooldown": "300",
-      "Description": "Spends 10% of own HP to restore the MP of a targeted ally within 25m by 3500.",
+      "Description": "Consomme 10% de vos points de vie maximum et restaure 3500 MP à une cible allié dans un rayon de 25m.",
       "Shards cost": 120
     },
     "52": {
       "id": 2299,
-      "name": "STR",
+      "name": "Transfert de soutien II",
       "icon": "Transference II",
       "Usage Cost": "10% HP",
       "Cast time": "1 sec",
       "Cooldown": "300",
-      "Description": "Spends 10% of own HP to restore the MP of a targeted ally within 25m by 4000.",
+      "Description": "Consomme 10% de vos points de vie maximum et restaure 4000 MP à une cible allié dans un rayon de 25m.",
       "Shards cost": 156
     }
   },
@@ -241,12 +241,12 @@
     ],
     "45": {
       "id": 1662,
-      "name": "STR",
+      "name": "Esprit fortifiant : Armure enchantée I",
       "icon": "Armor Spirit I",
       "Usage Cost": "400 MP",
       "Cast time": "1 sec",
       "Cooldown": "60",
-      "Description": "Increases your spirit's Physical Attack and Magic Attack by 40%, Physical, All Elemental Defenses by 10%, Magic Boost by 400, Speed by 30%, Magic Accuracy by 1000, and Accuracy by 1000 if it is within a 25m radius for 5m.",
+      "Description": "Augmente les caractéristiques de votre esprit (Invocation) : Attack physique et magique de 40%, Defense physique et toute les défenses élémentaires de 10%, Puissance magique de 400, Vitesse de déplacement de 30%, Précision magique de 1000, et précision de 1000 dans un rayon de 25m pendant 5 min.",
       "Abyss point": 13750,
       "Shards cost": 225
     }
@@ -271,62 +271,62 @@
     ],
     "25": {
       "id": 1634,
-      "name": "STR",
+      "name": "Inflammation d'Ether I",
       "icon": "Ignite Aether I",
       "Usage Cost": "114 MP",
       "Cast time": "Instantané",
       "Cooldown": "30",
-      "Description": "Removes up to 3 buffs from the target, inflicting 189 damage for the first buff removed and a further 189 damage per each additional buff.",
+      "Description": "Supprime 3 buffs sur une cible, et inflige 189 dégâts pour le premier buff supprimé et 189 dégâts pour chaques buffs supplémentaire retiré.",
       "Shards cost": 75
     },
     "31": {
       "id": 1635,
-      "name": "STR",
+      "name": "Inflammation d'Ether II",
       "icon": "Ignite Aether II",
       "Usage Cost": "141 MP",
       "Cast time": "Instantané",
       "Cooldown": "30",
-      "Description": "Removes up to 3 buffs from the target, inflicting 225 damage for the first buff removed and a further 255 damage per each additional buff.",
+      "Description": "Supprime 3 buffs sur une cible, et inflige 225 dégâts pour le premier buff supprimé et 225 dégâts pour chaques buffs supplémentaire retiré.",
       "Shards cost": 93
     },
     "37": {
       "id": 1759,
-      "name": "STR",
+      "name": "Inflammation d'Ether III",
       "icon": "Ignite Aether III",
       "Usage Cost": "157 MP",
       "Cast time": "Instantané",
       "Cooldown": "30",
-      "Description": "Removes up to 3 buffs from the target, inflicting 250 damage for the first buff removed and a further 250 damage per each additional buff.",
+      "Description": "Supprime 3 buffs sur une cible, et inflige 250 dégâts pour le premier buff supprimé et 250 dégâts pour chaques buffs supplémentaire retiré.",
       "Shards cost": 111
     },
     "42": {
       "id": 1780,
-      "name": "STR",
+      "name": "Inflammation d'Ether IV",
       "icon": "Ignite Aether IV",
       "Usage Cost": "181 MP",
       "Cast time": "Instantané",
       "Cooldown": "30",
-      "Description": "Removes up to 3 buffs from the target, inflicting 274 damage for the first buff removed and a further 274 damage per each additional buff.",
+      "Description": "Supprime 3 buffs sur une cible, et inflige 274 dégâts pour le premier buff supprimé et 274 dégâts pour chaques buffs supplémentaire retiré.",
       "Shards cost": 126
     },
     "48": {
       "id": 1793,
-      "name": "STR",
+      "name": "Inflammation d'Ether V",
       "icon": "Ignite Aether V",
       "Usage Cost": "202 MP",
       "Cast time": "Instantané",
       "Cooldown": "30",
-      "Description": "Removes up to 3 buffs from the target, inflicting 304 damage for the first buff removed and a further 304 damage per each additional buff.",
+      "Description": "Supprime 3 buffs sur une cible, et inflige 304 dégâts pour le premier buff supprimé et 304 dégâts pour chaques buffs supplémentaire retiré.",
       "Shards cost": 144
     },
     "54": {
       "id": 2233,
-      "name": "STR",
+      "name": "Inflammation d'Ether VI",
       "icon": "Ignite Aether VI",
       "Usage Cost": "234 MP",
       "Cast time": "Instantané",
       "Cooldown": "30",
-      "Description": "Removes up to 3 buffs from the target, inflicting 360 damage for the first buff removed and a further 360 damage per each additional buff.",
+      "Description": "Supprime 3 buffs sur une cible, et inflige 360 dégâts pour le premier buff supprimé et 360 dégâts pour chaques buffs supplémentaire retiré.",
       "Shards cost": 162
     }
   },
@@ -340,16 +340,18 @@
     "Skill type": "Normal",
     "Target": "Cible Sélectionnée",
     "Additional info": [
-      "Jumpshot Possible"
+      "Jumpshot Possible",
+      "Dissipation Impossible",
+      "Suppression Impossible"
     ],
     "54": {
       "id": 2009,
-      "name": "STR",
+      "name": "Ténèbres cinglantes I",
       "icon": "Withering Gloom I",
       "Usage Cost": "293 MP",
       "Cast time": "2 sec",
       "Cooldown": "120",
-      "Description": "Reduces the maximum HP and maximum MP of a target within a 25m radius by 1500 each for 1 min.\nIt can be removed with a Dispel Magical Debuff skill.",
+      "Description": "Réduit le maximum de points de vie et le maximum de MP d'une cible de 1500 dans un rayon de 25m pendant 1 min.",
       "Shards cost": 162
     }
   },
@@ -363,16 +365,18 @@
     "Skill type": "Normal",
     "Target": "Cible Sélectionnée",
     "Additional info": [
-      "Jumpshot Possible"
+      "Jumpshot Possible",
+      "Dissipation Impossible",
+      "Suppression Impossible"
     ],
     "45": {
       "id": 1663,
-      "name": "STR",
+      "name": "Menotte de léthargie I",
       "icon": "Shackle of Vulnerability I",
       "Usage Cost": "100 MP",
       "Cast time": "1 sec",
       "Cooldown": "30",
-      "Description": "Reduces the Attack Speed of target within 25m radius for 30s. Increases targets casting time for magical skills and decreases All Elemental Defense by 150 and Magic Resistance by 100. This effect can be removed with Dispel Magical Buff or Dispel Magical Debuff skills.",
+      "Description": "Réduit la vitesse d'attaque, augmente le temps d'incantation des compétences magique, réduit toutes les défenses elementaires de 150 et la résistance magique de 100 d'une cible dans un rayon de 25m pendant 30s.",
       "Abyss point": 13750,
       "Shards cost": 225
     }
@@ -388,16 +392,18 @@
     "Target": "Pet",
     "Additional info": [
       "Jumpshot Possible",
+      "Inutilisable en Combat",
       "Cibles Max = 12"
+
     ],
     "40": {
       "id": 1607,
-      "name": "STR",
+      "name": "Parole de dissimulation I",
       "icon": "Cloaking Word I",
       "Usage Cost": "420 MP",
       "Cast time": "0.5 sec",
       "Cooldown": "600",
-      "Description": "Puts group members within 20m of you into basic stealth for 30s, during which they cannot move.\nUnable to use during battle.",
+      "Description": "Affecte tous les membres du groupe et vous même dans un rayon de 20m, Octoie un camouflage basique pendant 30s, vous ne pouvez pas vous déplacer pendant la durée de l'effet.",
       "Shards cost": 120
     }
   },
@@ -416,12 +422,12 @@
     ],
     "44": {
       "id": 1785,
-      "name": "STR",
+      "name": "Récupération spirituelle I",
       "icon": "Spirit Recovery I",
       "Usage Cost": "169 MP",
       "Cast time": "Instantané",
       "Cooldown": "180",
-      "Description": "Recovers your spirit's HP by 100%.",
+      "Description": "Soigne les points de vie de votre esprit (Invocation) de 100%",
       "Shards cost": 132
     }
   },
@@ -444,52 +450,52 @@
     ],
     "31": {
       "id": 1608,
-      "name": "STR",
+      "name": "Bénédiction de feu I",
       "icon": "Blessing of Fire I",
       "Usage Cost": "175 MP",
       "Cast time": "2 sec",
       "Cooldown": "150",
-      "Description": "For 1m, there is a 10% chance of the caster and the group members within a 20m radius inflicting additional 35 damage on enemies with every attack.",
+      "Description": "Pendant 1 min, Le lanceur et les membres du groupe dans un rayon de 20m  gagne un effet : à chaque attaque, il y a 10% de chances d'ingliger 35 dégâts supplémentaires aux ennemis.",
       "Shards cost": 93
     },
     "37": {
       "id": 1638,
-      "name": "STR",
+      "name": "Bénédiction de feu II",
       "icon": "Blessing of Fire II",
       "Usage Cost": "195 MP",
       "Cast time": "2 sec",
       "Cooldown": "150",
-      "Description": "For 1m, there is a 10% chance of the caster and the group members within a 20m radius inflicting additional 40 damage on enemies with every attack.",
+      "Description": "Pendant 1 min, Le lanceur et les membres du groupe dans un rayon de 20m  gagne un effet : à chaque attaque, il y a 10% de chances d'ingliger 40 dégâts supplémentaires aux ennemis.",
       "Shards cost": 111
     },
     "43": {
       "id": 1639,
-      "name": "STR",
+      "name": "Bénédiction de feu III",
       "icon": "Blessing of Fire III",
       "Usage Cost": "230 MP",
       "Cast time": "2 sec",
       "Cooldown": "150",
-      "Description": "For 1m, there is a 10% chance of the caster and the group members within a 20m radius inflicting additional 46 damage on enemies with every attack.",
+      "Description": "Pendant 1 min, Le lanceur et les membres du groupe dans un rayon de 20m  gagne un effet : à chaque attaque, il y a 10% de chances d'ingliger 46 dégâts supplémentaires aux ennemis.",
       "Shards cost": 129
     },
     "49": {
       "id": 1640,
-      "name": "STR",
+      "name": "Bénédiction de feu IV",
       "icon": "Blessing of Fire IV",
       "Usage Cost": "256 MP",
       "Cast time": "2 sec",
       "Cooldown": "150",
-      "Description": "For 1m, there is a 10% chance of the caster and the group members within a 20m radius inflicting additional 52 damage on enemies with every attack.",
+      "Description": "Pendant 1 min, Le lanceur et les membres du groupe dans un rayon de 20m  gagne un effet : à chaque attaque, il y a 10% de chances d'ingliger 52 dégâts supplémentaires aux ennemis.",
       "Shards cost": 147
     },
     "55": {
       "id": 2241,
-      "name": "STR",
+      "name": "Bénédiction de feu V",
       "icon": "Blessing of Fire V",
       "Usage Cost": "299 MP",
       "Cast time": "2 sec",
       "Cooldown": "150",
-      "Description": "For 1m, there is a 10% chance of the caster and the group members within a 20m radius inflicting additional 58 damage on enemies with every attack.",
+      "Description": "Pendant 1 min, Le lanceur et les membres du groupe dans un rayon de 20m  gagne un effet : à chaque attaque, il y a 10% de chances d'ingliger 58 dégâts supplémentaires aux ennemis.",
       "Shards cost": 165
     }
   },
@@ -507,12 +513,12 @@
     ],
     "55": {
       "id": 2012,
-      "name": "STR",
+      "name": "Souillure infernale I",
       "icon": "Infernal Blight I",
       "Usage Cost": "588 MP",
       "Cast time": "1 sec",
       "Cooldown": "180",
-      "Description": "Decreases Physical Def by 1000, All Elemental Defense by 200, and Magic Resistance by 200 for a target within a 25m radius for 30s.",
+      "Description": "Réduit la défense physique de 1000, toutes les défenses élémentaires de 200, et la résistance magique de 200 d'une cible dans un rayon de 25m pendant 30s.",
       "Abyss point": 152700,
       "Shards cost": 275
     }
@@ -533,23 +539,23 @@
     ],
     "50": {
       "id": 1666,
-      "name": "STR",
+      "name": "Douleur infernale I",
       "icon": "Infernal Pain I",
       "Usage Cost": "482 MP",
       "Cast time": "1.5 sec",
       "Cooldown": "30",
-      "Description": "Inflicts 511 earth damage to a target within a 25m radius, and deals periodic 445 damage every 3s for 12s.",
+      "Description": "Inflige 511 dégâts magique de terre dans un rayon de 25m, et inflige 445 dégâts périodique toute les 3s pendant 12s.",
       "Abyss point": 38700,
       "Shards cost": 250
     },
     "53": {
       "id": 2230,
-      "name": "STR",
+      "name": "Douleur infernale II",
       "icon": "Infernal Pain II",
       "Usage Cost": "512 MP",
       "Cast time": "1.5 sec",
       "Cooldown": "30",
-      "Description": "Inflicts 554 earth damage to a target within a 25m radius, and deals periodic 482 damage every 3s for 12s.",
+      "Description": "Inflige 554 dégâts magique de terre dans un rayon de 25m, et inflige 482 dégâts périodique toute les 3s pendant 12s.",
       "Abyss point": 85800,
       "Shards cost": 265
     }
@@ -568,49 +574,51 @@
     "Target": "Cible Sélectionnée",
     "Additional info": [
       "Jumpshot Possible",
-      "Utilisable en Mouvement"
+      "Utilisable en Mouvement",
+      "Dissipation Impossible",
+      "Suppression Impossible"
     ],
     "45": {
       "id": 1664,
-      "name": "STR",
+      "name": "Renversement magique I",
       "icon": "Magic Implosion I",
       "Usage Cost": "257 MP",
       "Cast time": "Instantané",
       "Cooldown": "30",
-      "Description": "Removes up to 3 buffs from the target, inflicts 400 damage for the first buff removed, and inflicts a further 400 damage per each additional buff removed. The target also receives 100 damage every 3 sec for 30 sec. It can be removed with Dispel Magical Buff or Dispel Magical Debuff skills.",
+      "Description": "Supprime 3 buffs sur une cible, et inflige 400 dégâts pour le premier buff supprimé et 400 dégâts pour chaques buffs supplémentaire retiré. La cible subit 100 dégats périodique supplémentaire toute les 3 sec pendant 30 sec.",
       "Abyss point": 13750,
       "Shards cost": 225
     },
     "48": {
       "id": 2218,
-      "name": "STR",
+      "name": "Renversement magique II",
       "icon": "Magic Implosion II",
       "Usage Cost": "270 MP",
       "Cast time": "Instantané",
       "Cooldown": "30",
-      "Description": "Removes up to 3 buffs from the target, inflicts 427 damage for the first buff removed, and inflicts a further 427 damage per each additional buff removed. The target also receives 104 damage every 3 sec for 30 sec. It can be removed with Dispel Magical Buff or Dispel Magical Debuff skills.",
+      "Description": "Supprime 3 buffs sur une cible, et inflige 427 dégâts pour le premier buff supprimé et 427 dégâts pour chaques buffs supplémentaire retiré. La cible subit 104 dégats périodique supplémentaire toute les 3 sec pendant 30 sec.",
       "Abyss point": 26500,
       "Shards cost": 240
     },
     "51": {
       "id": 2224,
-      "name": "STR",
+      "name": "Renversement magique III",
       "icon": "Magic Implosion III",
       "Usage Cost": "288 MP",
       "Cast time": "Instantané",
       "Cooldown": "30",
-      "Description": "Removes up to 3 buffs from the target, inflicts 452 damage for the first buff removed, and inflicts a further 452 damage per each additional buff removed. The target also receives 110 damage every 3 sec for 30 sec. It can be removed with Dispel Magical Buff or Dispel Magical Debuff skills.",
+      "Description": "Supprime 3 buffs sur une cible, et inflige 442 dégâts pour le premier buff supprimé et 400 dégâts pour chaques buffs supplémentaire retiré. La cible subit 110 dégats périodique supplémentaire toute les 3 sec pendant 30 sec.",
       "Abyss point": 34500,
       "Shards cost": 255
     },
     "54": {
       "id": 2238,
-      "name": "STR",
+      "name": "Renversement magique IV",
       "icon": "Magic Implosion IV",
       "Usage Cost": "313 MP",
       "Cast time": "Instantané",
       "Cooldown": "30",
-      "Description": "Removes up to 3 buffs from the target, inflicts 491 damage for the first buff removed, and inflicts a further 491 damage per each additional buff removed. The target also receives 120 damage every 3 sec for 30 sec. It can be removed with Dispel Magical Buff or Dispel Magical Debuff skills.",
+      "Description": "Supprime 3 buffs sur une cible, et inflige 491 dégâts pour le premier buff supprimé et 491 dégâts pour chaques buffs supplémentaire retiré. La cible subit 120 dégats périodique supplémentaire toute les 3 sec pendant 30 sec.",
       "Abyss point": 45700,
       "Shards cost": 270
     }
@@ -629,12 +637,12 @@
     ],
     "34": {
       "id": 1661,
-      "name": "STR",
+      "name": "Esprit : Mur de protection I",
       "icon": "Spirit Wall of Protection I",
       "Usage Cost": "220 MP",
       "Cast time": "0.8 sec",
       "Cooldown": "120",
-      "Description": "Commands spirits to use their respective magical buffs on allies within a 15m radius of themselves.\n\nWater Spirit: Increases Magical Accuracy and Magical Resistance\nWind Spirit: Increases Accuracy and Evasion Rate\nEarth Spirit: Recovers HP. Removes Physical and Mental Debuffs\nFire Spirit: Increases Physical Attack and reflects damage\nMagma Spirit: Recovers HP and increases Physical Attack\nTempest Spirit: Increases Magical Accuracy, Magical Resistance, Accuracy, and Evasion Rate.",
+      "Description": "Ordonne à votre esprit (Invocation) d'utiliser leurs buffs magiques respectifs sur les alliés et le lanceur dans un rayon de 15 m autour d'eux.\n\nEsprit de l'eau : Augmente la précision magique et la résistance magique.\nEsprit de vent : Augmente la précision et l'esquive.\nEsprit de la terre : Restaure des points de vie et dissipe 1 altération physique et magique\nEsprit de feu : Augmente l'attaque and renvoie des dégâts à chaque attaque subit.\nEsprit de Magma : Restaure des points de vie et augmente l'attaque physique.\nEsprit Tempête : Augmente la précision magique, la résistance magique, la précision, et l'évasion.",
       "Shards cost": 102
     }
   },
@@ -652,11 +660,11 @@
     ],
     "55": {
       "id": 2011,
-      "name": "STR",
+      "name": "Hypnose I",
       "icon": "Spirit Hypnosis I",
       "Cast time": "1 sec",
       "Cooldown": "30",
-      "Description": "Commands the spirit to use its debuff skills. The spirit possesses the target and puts it to sleep, reducing Attack Speed and increasing all elemental defense of the target before disappearing.",
+      "Description": "Ordonne à votre esprit (Invocation) d'utiliser sa compétence d'affaiblissement. L'esprit possède la cible et l'endort, réduisant la vitesse d'attaque et augmentant toutes les défenses élémentaires de la cible avant de disparaître.",
       "Abyss point": 152700,
       "Shards cost": 275
     }
@@ -677,11 +685,11 @@
     ],
     "48": {
       "id": 1794,
-      "name": "STR",
+      "name": "Esprit : Substitution I",
       "icon": "Spirit Substitution I",
       "Cast time": "Instantané",
       "Cooldown": "600",
-      "Description": "Commands the spirit to use its protection magic. The spirit receives all the damage in place of the caster.",
+      "Description": "Ordonne à l'esprit (Invocation) d'utiliser sa magie de protection. L'esprit reçoit tous les dégâts à la place du lanceur.",
       "Shards cost": 144
     }
   },
@@ -700,12 +708,12 @@
     ],
     "28": {
       "id": 1769,
-      "name": "STR",
+      "name": "Sceau de silence I",
       "icon": "Sigil of Silence I",
       "Usage Cost": "131 MP",
       "Cast time": "1 sec",
       "Cooldown": "20",
-      "Description": "Silences a target within 25m for 6s~8s.",
+      "Description": "Réduit au silence une cible à moins de 25m pendant 6~8s.",
       "Shards cost": 84
     }
   },
@@ -726,45 +734,45 @@
     ],
     "45": {
       "id": 1642,
-      "name": "STR",
+      "name": "Invocation : Serviteur du cyclone I",
       "icon": "Summon Cyclone Servant I (A)",
       "Usage Cost": "295 MP",
       "Cast time": "1.5 sec",
       "Cooldown": "30",
-      "Description": "Summons 4 Energies of Wind to inflict wind damage to a target within a 25m radius.",
+      "Description": "Invoque 4 Energies de vent qui infligent des dégâts de vent à une cible dans un rayon de 25m.",
       "Abyss point": 13750,
       "Shards cost": 225
     },
     "48": {
       "id": 2215,
-      "name": "STR",
+      "name": "Invocation : Serviteur du cyclone II",
       "icon": "Summon Cyclone Servant II (A)",
       "Usage Cost": "312 MP",
       "Cast time": "1.5 sec",
       "Cooldown": "30",
-      "Description": "Summons 4 Energies of Wind to inflict wind damage to a target within a 25m radius.",
+      "Description": "Invoque 4 Energies de vent qui infligent des dégâts de vent à une cible dans un rayon de 25m.",
       "Abyss point": 26500,
       "Shards cost": 240
     },
     "51": {
       "id": 2221,
-      "name": "STR",
+      "name": "Invocation : Serviteur du cyclone III",
       "icon": "Summon Cyclone Servant III (A)",
       "Usage Cost": "333 MP",
       "Cast time": "1.5 sec",
       "Cooldown": "30",
-      "Description": "Summons 4 Energies of Wind to inflict wind damage to a target within a 25m radius.",
+      "Description": "Invoque 4 Energies de vent qui infligent des dégâts de vent à une cible dans un rayon de 25m.",
       "Abyss point": 34500,
       "Shards cost": 255
     },
     "54": {
       "id": 2235,
-      "name": "STR",
+      "name": "Invocation : Serviteur du cyclone IV",
       "icon": "Summon Cyclone Servant IV (A)",
       "Usage Cost": "362 MP",
       "Cast time": "1.5 sec",
       "Cooldown": "30",
-      "Description": "Summons 4 Energies of Wind to inflict wind damage to a target within a 25m radius.",
+      "Description": "Invoque 4 Energies de vent qui infligent des dégâts de vent à une cible dans un rayon de 25m.",
       "Abyss point": 45700,
       "Shards cost": 270
     }
@@ -786,45 +794,45 @@
     ],
     "45": {
       "id": 1641,
-      "name": "STR",
+      "name": "Invocation : Serviteur du cyclone I",
       "icon": "Summon Cyclone Servant I (E)",
       "Usage Cost": "295 MP",
       "Cast time": "1.5 sec",
       "Cooldown": "30",
-      "Description": "Summons 4 Energies of Wind to inflict wind damage to a target within a 25m radius.",
+      "Description": "Invoque 4 Energies de vent qui infligent des dégâts de vent à une cible dans un rayon de 25m.",
       "Abyss point": 13750,
       "Shards cost": 225
     },
     "48": {
       "id": 2214,
-      "name": "STR",
+      "name": "Invocation : Serviteur du cyclone II",
       "icon": "Summon Cyclone Servant II (E)",
       "Usage Cost": "312 MP",
       "Cast time": "1.5 sec",
       "Cooldown": "30",
-      "Description": "Summons 4 Energies of Wind to inflict wind damage to a target within a 25m radius.",
+      "Description": "Invoque 4 Energies de vent qui infligent des dégâts de vent à une cible dans un rayon de 25m.",
       "Abyss point": 26500,
       "Shards cost": 240
     },
     "51": {
       "id": 2220,
-      "name": "STR",
+      "name": "Invocation : Serviteur du cyclone III",
       "icon": "Summon Cyclone Servant III (E)",
       "Usage Cost": "333 MP",
       "Cast time": "1.5 sec",
       "Cooldown": "30",
-      "Description": "Summons 4 Energies of Wind to inflict wind damage to a target within a 25m radius.",
+      "Description": "Invoque 4 Energies de vent qui infligent des dégâts de vent à une cible dans un rayon de 25m.",
       "Abyss point": 34500,
       "Shards cost": 255
     },
     "54": {
       "id": 2234,
-      "name": "STR",
+      "name": "Invocation : Serviteur du cyclone IV",
       "icon": "Summon Cyclone Servant IV (E)",
       "Usage Cost": "362 MP",
       "Cast time": "1.5 sec",
       "Cooldown": "30",
-      "Description": "Summons 4 Energies of Wind to inflict wind damage to a target within a 25m radius.",
+      "Description": "Invoque 4 Energies de vent qui infligent des dégâts de vent à une cible dans un rayon de 25m.",
       "Abyss point": 45700,
       "Shards cost": 270
     }
@@ -845,12 +853,12 @@
     ],
     "52": {
       "id": 2006,
-      "name": "STR",
+      "name": "Toucher de stupeur I",
       "icon": "Hand of Torpor I",
       "Usage Cost": "335 MP",
       "Cast time": "2.5 sec",
       "Cooldown": "60",
-      "Description": "Forces a target within 25m to fall asleep for 20s and increases All Elemental Defense. The duration decreases if the target is a player.",
+      "Description": "Endort une Cible dans un rayon de 25m pendant 20s et augmente toutes ces défenses élémentairess. La durée diminue si la cible est un joueur.",
       "Abyss point": 78800,
       "Shards cost": 260
     }
@@ -869,12 +877,12 @@
     ],
     "50": {
       "id": 1665,
-      "name": "STR",
+      "name": "Offensive spirituelle lourde I",
       "icon": "Spirit Ruinous Offensive I",
       "Usage Cost": "200 MP",
       "Cast time": "0.8 sec",
       "Cooldown": "60",
-      "Description": "Commands the spirit to attack. Each spirit has an element-specific strike skill.",
+      "Description": "Ordonne à l'esprit (Invocation) d'attaquer. Chaque esprit a une compétence de frappe spécifique à sont élément.",
       "Abyss point": 38700,
       "Shards cost": 250
     }
@@ -893,12 +901,12 @@
     ],
     "45": {
       "id": 1601,
-      "name": "STR",
+      "name": "Esprit ancestral : Flux élémentaire I",
       "icon": "Ancestral Spirit Flow I",
       "Usage Cost": "440 MP",
       "Cast time": "2 sec",
       "Cooldown": "180",
-      "Description": "Commands the spirit to channel its HP into an attack spell. Each spirit has an element-specific skill that deals damage in an area of affect. It deals an additional damage if the target is an Asmodian or a Balaur",
+      "Description": "Ordonne à l'esprit (Invocation) de sacrifier une partie de ses PV pour lancer un sort d'attaque. Chaque esprit possède une compétence spécifique à un élément qui inflige des dégâts dans une zone d'effet. Il inflige des dégâts supplémentaires si la cible est un Asmodien ou un Balaur",
       "Shards cost": 135
     }
   },
@@ -916,12 +924,12 @@
     ],
     "50": {
       "id": 1604,
-      "name": "STR",
+      "name": "Esprit : explosion I",
       "icon": "Spirit Burn-to-Ashes I",
       "Usage Cost": "500 MP",
       "Cast time": "2 sec",
       "Cooldown": "180",
-      "Description": "Commands the spirit to consume its HP in a magical elemental attack dealing area effect damage. It deals additional damage if the target is an Asmodian or a Balaur.",
+      "Description": "Ordonne à l'esprit (Invocation) de sacrifier une partie de ses PV pour lancer une attaque magique élémentaire infligeant des dégâts d'effet de zone. Il inflige des dégâts supplémentaires si la cible est un Asmodien ou un Balaur.",
       "Shards cost": 150
     }
   },
@@ -939,12 +947,12 @@
     ],
     "45": {
       "id": 1602,
-      "name": "STR",
+      "name": "Esprit ancestral : Autodestruction I",
       "icon": "Ancestral Spirit Self Destruct I",
       "Usage Cost": "440 MP",
       "Cast time": "2 sec",
       "Cooldown": "180",
-      "Description": "Commands the spirit to channel its HP into an attack spell. Each spirit has an element-specific skill that deals damage in an area of affect. It deals an additional damage if the target is an Elyos or a Balaur.",
+      "Description": "Ordonne à l'esprit (Invocation) de sacrifier une partie de ses PV pour lancer un sort d'attaque. Chaque esprit possède une compétence spécifique à un élément qui inflige des dégâts dans une zone d'effet. Il inflige des dégâts supplémentaires si la cible est un Élyséen ou un Balaur.",
       "Shards cost": 135
     }
   },
@@ -962,12 +970,12 @@
     ],
     "50": {
       "id": 1605,
-      "name": "STR",
+      "name": "Esprit : Réduire en cendres I",
       "icon": "Spirit Explosion I",
       "Usage Cost": "500 MP",
       "Cast time": "2 sec",
       "Cooldown": "180",
-      "Description": "Commands the spirit to consume its HP in a magical elemental attack dealing area effect damage. It deals additional damage if the target is an Elyos or a Balaur.",
+      "Description": "Ordonne à l'esprit (Invocation) de sacrifier une partie de ses PV pour lancer une attaque magique élémentaire infligeant des dégâts d'effet de zone. Il inflige des dégâts supplémentaires si la cible est un Asmodien ou un Balaur.",
       "Shards cost": 150
     }
   },
@@ -986,22 +994,22 @@
     ],
     "45": {
       "id": 1603,
-      "name": "STR",
+      "name": "Cyclone de colère I",
       "icon": "Cyclone of Wrath I",
       "Usage Cost": "246 MP",
       "Cast time": "2 sec",
       "Cooldown": "12",
-      "Description": "Deals 357 magical wind damage to a target within 25m of you, and deals a further 311 damage every 2s for 8s.",
+      "Description": "Inflige 357 dégâts magique de vent à une cible dans un rayon de 25m, et inflige 311 dégâts périodique toute les 2s pendant 8s.",
       "Shards cost": 135
     },
     "51": {
       "id": 2219,
-      "name": "STR",
+      "name": "Cyclone de colère II",
       "icon": "Cyclone of Wrath II",
       "Usage Cost": "278 MP",
       "Cast time": "2 sec",
       "Cooldown": "12",
-      "Description": "Deals 395 magical wind damage to a target within 25m of you, and deals a further 344 damage every 2s for 8s.",
+      "Description": "Inflige 395 dégâts magique de vent à une cible dans un rayon de 25m, et inflige 344 dégâts périodique toute les 2s pendant 8s.",
       "Shards cost": 153
     }
   },
@@ -1020,12 +1028,12 @@
     ],
     "22": {
       "id": 1683,
-      "name": "STR",
+      "name": "Modification d'hostilité I",
       "icon": "Enmity Swap I",
       "Usage Cost": "37 MP",
       "Cast time": "Instantané",
       "Cooldown": "60",
-      "Description": "You draw the Enmity of a target within 15m that is currently focused on your spirit.",
+      "Description": "Votre esprit (Invocation) provoque une cible à moins de 15m et augmente sont hostilité envers lui",
       "Shards cost": 66
     }
   },
@@ -1046,12 +1054,12 @@
     ],
     "37": {
       "id": 1685,
-      "name": "STR",
+      "name": "Hurlement de peur I",
       "icon": "Fear Shriek I",
       "Usage Cost": "520 MP",
       "Cast time": "1.5 sec",
       "Cooldown": "60",
-      "Description": "Transforms a target within a 15m radius of you into Fire Spirits for 15s-18s, and strikes them with fear and reduces their Movement Speed. The duration decreases if the target is a player.",
+      "Description": "Transforme les cibles autour de vous dans un rayon de 15m en esprits de feu et leur inflige l'effet peur pendant 15~18s, leur vitesse de déplacement est réduite pendant la surée de l'effet",
       "Shards cost": 111
     }
   }
