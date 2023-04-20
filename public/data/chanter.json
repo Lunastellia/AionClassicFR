@@ -14,7 +14,7 @@
     ],
     "45": {
       "id": 1230,
-      "name": "Bénédiction de Pierre I",
+      "name": "Blessing of Stone I",
       "Usage Cost": "105 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "1",
@@ -41,7 +41,7 @@
     ],
     "45": {
       "id": 1213,
-      "name": "Restoration d'endurance I",
+      "name": "Stamina Restoration I",
       "Usage Cost": "208 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "60",
@@ -51,7 +51,7 @@
     },
     "48": {
       "id": 2156,
-      "name": "Restoration d'endurance II",
+      "name": "Stamina Restoration II",
       "Usage Cost": "217 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "60",
@@ -61,7 +61,7 @@
     },
     "51": {
       "id": 2162,
-      "name": "Restoration d'endurance III",
+      "name": "Stamina Restoration III",
       "Usage Cost": "226 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "60",
@@ -71,7 +71,7 @@
     },
     "54": {
       "id": 2175,
-      "name": "Restoration d'endurance IV",
+      "name": "Stamina Restoration IV",
       "Usage Cost": "234 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "60",
@@ -95,7 +95,7 @@
     ],
     "54": {
       "id": 1998,
-      "name": "Mantra de coup I",
+      "name": "Hit Mantra I",
       "Cast time": "Cast Instantly",
       "Description": "Increases Crit Strike by 50, Magic Crit by 50, Strike Resist by 50, and Spell Resist by 50 for you and your group members within a 20m radius.\nActive Skill",
       "Shards cost": 162
@@ -116,7 +116,7 @@
     ],
     "44": {
       "id": 1337,
-      "name": "Mantra d'amélioration I",
+      "name": "Enhancement Mantra I",
       "Cast time": "Cast Instantly",
       "Description": "Increases Stun Resistance of you and your group members within 20m radius of you by 500.\nActive Skill.",
       "Shards cost": 132
@@ -137,7 +137,7 @@
     ],
     "50": {
       "id": 1234,
-      "name": "Mantra d'invincibilité I",
+      "name": "Invincibility Mantra I",
       "Cast time": "Cast Instantly",
       "Description": "Recovers the MP of the caster and group members within a 20m radius by 32, and also increases Physical Attack, Physical Def, and Magic Boost.\nActive Skill.",
       "Abyss point": 38700,
@@ -165,7 +165,7 @@
     ],
     "20": {
       "id": 1219,
-      "name": "Intermédiaire de soins I",
+      "name": "Healing Conduit I",
       "Usage Cost": "59 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "120",
@@ -174,7 +174,7 @@
     },
     "25": {
       "id": 1329,
-      "name": "Intermédiaire de soins II",
+      "name": "Healing Conduit II",
       "Usage Cost": "69 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "120",
@@ -183,7 +183,7 @@
     },
     "31": {
       "id": 1330,
-      "name": "Intermédiaire de soins III",
+      "name": "Healing Conduit III",
       "Usage Cost": "80 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "120",
@@ -192,7 +192,7 @@
     },
     "37": {
       "id": 1331,
-      "name": "Intermédiaire de soins IV",
+      "name": "Healing Conduit IV",
       "Usage Cost": "90 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "120",
@@ -201,7 +201,7 @@
     },
     "43": {
       "id": 1336,
-      "name": "Intermédiaire de soins V",
+      "name": "Healing Conduit V",
       "Usage Cost": "102 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "120",
@@ -210,7 +210,7 @@
     },
     "49": {
       "id": 1341,
-      "name": "Intermédiaire de soins VI",
+      "name": "Healing Conduit VI",
       "Usage Cost": "123 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "120",
@@ -219,7 +219,7 @@
     },
     "55": {
       "id": 2182,
-      "name": "Intermédiaire de soins VII",
+      "name": "Healing Conduit VII",
       "Usage Cost": "138 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "120",
@@ -243,7 +243,7 @@
     ],
     "48": {
       "id": 1340,
-      "name": "Ame écrasée I",
+      "name": "Soul Crush I",
       "Usage Cost": "166 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "60",
@@ -252,7 +252,7 @@
     },
     "54": {
       "id": 2179,
-      "name": "Ame écrasée II",
+      "name": "Soul Crush II",
       "Usage Cost": "199 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "60",
@@ -278,7 +278,7 @@
     ],
     "45": {
       "id": 1217,
-      "name": "Bénédiction du vent I",
+      "name": "Blessing of Wind I",
       "Usage Cost": "317 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "180",
@@ -288,7 +288,7 @@
     },
     "48": {
       "id": 2157,
-      "name": "Bénédiction du vent II",
+      "name": "Blessing of Wind II",
       "Usage Cost": "333 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "180",
@@ -298,7 +298,7 @@
     },
     "51": {
       "id": 2163,
-      "name": "Bénédiction du vent III",
+      "name": "Blessing of Wind III",
       "Usage Cost": "354 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "180",
@@ -308,7 +308,7 @@
     },
     "54": {
       "id": 2176,
-      "name": "Bénédiction du vent IV",
+      "name": "Blessing of Wind IV",
       "Usage Cost": "385 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "180",
@@ -333,7 +333,7 @@
     ],
     "40": {
       "id": 1223,
-      "name": "Mot d'inspiration I",
+      "name": "Word of Inspiration I",
       "Usage Cost": "300 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "10",
@@ -357,7 +357,7 @@
     ],
     "28": {
       "id": 1224,
-      "name": "Parole de protection I",
+      "name": "Word of Protection I",
       "Usage Cost": "300 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "10",
@@ -381,7 +381,7 @@
     ],
     "55": {
       "id": 2001,
-      "name": "Forteresse inexpugnable I",
+      "name": "Elemental Screen I",
       "Usage Cost": "303 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "180",
@@ -409,7 +409,7 @@
     ],
     "34": {
       "id": 1324,
-      "name": "Sort de récupération I",
+      "name": "Word of Life I",
       "Usage Cost": "278 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "120",
@@ -418,7 +418,7 @@
     },
     "40": {
       "id": 1325,
-      "name": "Sort de récupération II",
+      "name": "Word of Life II",
       "Usage Cost": "299 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "120",
@@ -427,7 +427,7 @@
     },
     "46": {
       "id": 1346,
-      "name": "Sort de récupération III",
+      "name": "Word of Life III",
       "Usage Cost": "322 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "120",
@@ -436,7 +436,7 @@
     },
     "52": {
       "id": 2168,
-      "name": "Sort de récupération IV",
+      "name": "Word of Life IV",
       "Usage Cost": "356 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "120",
@@ -460,7 +460,7 @@
     ],
     "50": {
       "id": 1233,
-      "name": "Crash de montagne I",
+      "name": "Mountain Crash I",
       "Usage Cost": "144 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "30",
@@ -470,7 +470,7 @@
     },
     "53": {
       "id": 2171,
-      "name": "Crash de montagne II",
+      "name": "Mountain Crash II",
       "Usage Cost": "171 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "30",
@@ -496,7 +496,7 @@
     ],
     "45": {
       "id": 1218,
-      "name": "Récupération magique I",
+      "name": "Magic Recovery I",
       "Usage Cost": "100 MP",
       "Cast time": "1 sec",
       "Cooldown": "300",
@@ -506,7 +506,7 @@
     },
     "48": {
       "id": 2158,
-      "name": "Récupération magique II",
+      "name": "Magic Recovery II",
       "Usage Cost": "140 MP",
       "Cast time": "1 sec",
       "Cooldown": "300",
@@ -516,7 +516,7 @@
     },
     "51": {
       "id": 2164,
-      "name": "Récupération magique III",
+      "name": "Magic Recovery III",
       "Usage Cost": "180 MP",
       "Cast time": "1 sec",
       "Cooldown": "300",
@@ -526,7 +526,7 @@
     },
     "54": {
       "id": 2177,
-      "name": "Récupération magique IV",
+      "name": "Magic Recovery IV",
       "Usage Cost": "220 MP",
       "Cast time": "1 sec",
       "Cooldown": "300",
@@ -550,7 +550,7 @@
     ],
     "20": {
       "id": 1315,
-      "name": "Sort de fureur I",
+      "name": "Rage Spell I",
       "Usage Cost": "379 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "15",
@@ -587,7 +587,7 @@
     },
     "28": {
       "id": 1202,
-      "name": "Protection II",
+      "name": "Protective Ward II",
       "Usage Cost": "100 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "120",
@@ -596,7 +596,7 @@
     },
     "34": {
       "id": 1203,
-      "name": "Protection III",
+      "name": "Protective Ward III",
       "Usage Cost": "124 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "120",
@@ -605,7 +605,7 @@
     },
     "40": {
       "id": 1206,
-      "name": "Protection IV",
+      "name": "Protective Ward IV",
       "Usage Cost": "142 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "120",
@@ -614,7 +614,7 @@
     },
     "46": {
       "id": 1210,
-      "name": "Protection V",
+      "name": "Protective Ward V",
       "Usage Cost": "159 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "120",
@@ -623,7 +623,7 @@
     },
     "52": {
       "id": 2169,
-      "name": "Protection VI",
+      "name": "Protective Ward VI",
       "Usage Cost": "182 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "120",
@@ -646,7 +646,7 @@
     ],
     "52": {
       "id": 1993,
-      "name": "Frappe déstabilisante I",
+      "name": "Disorienting Blow I",
       "Usage Cost": "144 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "60",
@@ -656,7 +656,7 @@
     },
     "55": {
       "id": 1994,
-      "name": "Frappe déstabilisante II",
+      "name": "Disorienting Blow II",
       "Usage Cost": "152 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "60",
@@ -680,7 +680,7 @@
     ],
     "55": {
       "id": 1999,
-      "name": "Frappe engourdissante I",
+      "name": "Numbing Blow I",
       "Usage Cost": "152 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "40",
@@ -705,7 +705,7 @@
     ],
     "43": {
       "id": 2286,
-      "name": "Verrou d'âme I",
+      "name": "Soul Lock I",
       "Usage Cost": "123 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "60",
@@ -714,7 +714,7 @@
     },
     "55": {
       "id": 2287,
-      "name": "Verrou d'âme II",
+      "name": "Soul Lock II",
       "Usage Cost": "152 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "60",
@@ -739,7 +739,7 @@
     ],
     "40": {
       "id": 1211,
-      "name": "Swing jaillissant I",
+      "name": "Splash Swing I",
       "Usage Cost": "81 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "30",
@@ -748,7 +748,7 @@
     },
     "46": {
       "id": 1212,
-      "name": "Swing jaillissant II",
+      "name": "Splash Swing II",
       "Usage Cost": "83 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "30",
@@ -757,7 +757,7 @@
     },
     "52": {
       "id": 2170,
-      "name": "Swing jaillissant III",
+      "name": "Splash Swing III",
       "Usage Cost": "96 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "30",
@@ -781,7 +781,7 @@
     ],
     "50": {
       "id": 1197,
-      "name": "	Rideau divin I",
+      "name": "Divine Curtain I",
       "Usage Cost": "622 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "600",
@@ -805,7 +805,7 @@
     ],
     "45": {
       "id": 1199,
-      "name": "Parole anti-sort ancestrale I",
+      "name": "Ancestral Word of Spellstopping I",
       "Usage Cost": "500 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "600",
@@ -829,7 +829,7 @@
     ],
     "50": {
       "id": 1198,
-      "name": "Rideau d'Ether I",
+      "name": "Curtain of Aether I",
       "Usage Cost": "622 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "600",
@@ -853,7 +853,7 @@
     ],
     "45": {
       "id": 1200,
-      "name": "Champ éthéré ancestral I",
+      "name": "Ancestral Aetheric Field I",
       "Usage Cost": "500 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "600",
@@ -876,7 +876,7 @@
     ],
     "45": {
       "id": 1196,
-      "name": "Sort de récupération I",
+      "name": "Recovery Spell I",
       "Usage Cost": "290 MP",
       "Cast time": "1 sec",
       "Cooldown": "10",
@@ -885,7 +885,7 @@
     },
     "51": {
       "id": 2166,
-      "name": "Sort de récupération II",
+      "name": "Recovery Spell II",
       "Usage Cost": "314 MP",
       "Cast time": "1 sec",
       "Cooldown": "10",
@@ -908,7 +908,7 @@
     ],
     "52": {
       "id": 1995,
-      "name": "Salve de guérison I",
+      "name": "Healing Burst I",
       "Usage Cost": "280 MP",
       "Cast time": "3 sec",
       "Cooldown": "10",
@@ -918,7 +918,7 @@
     },
     "55": {
       "id": 1996,
-      "name": "Salve de guérison II",
+      "name": "Healing Burst II",
       "Usage Cost": "291 MP",
       "Cast time": "3 sec",
       "Cooldown": "10",
@@ -944,7 +944,7 @@
     ],
     "28": {
       "id": 1321,
-      "name": "Parole de lien I",
+      "name": "Binding Word I",
       "Usage Cost": "251 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "45",
@@ -970,7 +970,7 @@
     ],
     "25": {
       "id": 1318,
-      "name": "Promesse de l'Ether I",
+      "name": "Promise of Aether I",
       "Usage Cost": "58 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "10",
@@ -979,7 +979,7 @@
     },
     "37": {
       "id": 1319,
-      "name": "Promesse de l'Ether II",
+      "name": "Promise of Aether II",
       "Usage Cost": "71 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "10",
@@ -988,7 +988,7 @@
     },
     "49": {
       "id": 1342,
-      "name": "Promesse de l'Ether III",
+      "name": "Promise of Aether III",
       "Usage Cost": "91 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "10",
@@ -997,7 +997,7 @@
     },
     "55": {
       "id": 2183,
-      "name": "Promesse de l'Ether IV",
+      "name": "Promise of Aether IV",
       "Usage Cost": "106 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "10",
