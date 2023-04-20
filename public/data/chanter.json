@@ -118,8 +118,8 @@
       "id": 1337,
       "name": "Mantra d'amélioration I",
       "icon": "Enhancement Mantra I",
-      "Cast time": "Cast Instantly",
-      "Description": "Increases Stun Resistance of you and your group members within 20m radius of you by 500.\nActive Skill.",
+      "Cast time": "Instantané",
+      "Description": "Augmente la résistance à l'étourdissement de 500 pour vous et des membres de votre groupe dans un rayon de 20 m autour de vous.\nCompétence active.",
       "Shards cost": 132
     }
   },
