@@ -76,7 +76,8 @@
     ],
     "25": {
       "id": 803,
-      "name": "TEST I",
+      "name": "Ambush I",
+      "nameFR": "TEST I",
       "Usage Cost": "65 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "40",
@@ -85,7 +86,8 @@
     },
     "31": {
       "id": 804,
-      "name": "TEST II",
+      "name": "Ambush II",
+      "nameFR": "TEST II",
       "Usage Cost": "73 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "40",
@@ -94,7 +96,8 @@
     },
     "37": {
       "id": 870,
-      "name": "TEST III",
+      "name": "Ambush III",
+      "nameFR": "TEST III",
       "Usage Cost": "79 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "40",
@@ -103,7 +106,8 @@
     },
     "43": {
       "id": 928,
-      "name": "TEST IV",
+      "name": "Ambush IV",
+      "nameFR": "TEST IV",
       "Usage Cost": "82 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "40",
@@ -112,7 +116,8 @@
     },
     "49": {
       "id": 938,
-      "name": "TEST V",
+      "name": "Ambush V",
+      "nameFR": "TEST V",
       "Usage Cost": "82 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "40",
@@ -121,7 +126,8 @@
     },
     "55": {
       "id": 2126,
-      "name": "TEST VI",
+      "name": "Ambush VI",
+      "nameFR": "TEST VI",
       "Usage Cost": "101 MP",
       "Cast time": "Cast Instantly",
       "Cooldown": "40",
