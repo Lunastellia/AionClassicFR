@@ -19,5 +19,5 @@ https://lunastellia.github.io/AionClassicFR/
 - Traduction Rodeur : (en cour)
 - Traduction Sorcier : (en cour)
 - Traduction Spiritualiste : (en cour)
-
+- [Bear-Foot](https://github.com/Bear-Foot) - Corrections de bugs
 
