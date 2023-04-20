@@ -11,13 +11,16 @@ https://lunastellia.github.io/AionClassicFR/
 ##Credits :
 
 - L'auteur original du code : https://github.com/Persepha/Aion-classic-stigma-calculator
-- Traduction Templier : (en cour)
-- Traduction Gladiateur : (en cour)
-- Traduction Clerc : (en cour)
-- Traduction Aède : (en cour)
-- Traduction Assassin : (en cour)
-- Traduction Rodeur : (en cour)
-- Traduction Sorcier : (en cour)
-- Traduction Spiritualiste : (en cour)
-- [Bear-Foot](https://github.com/Bear-Foot) - Corrections de bugs
+- Merci aux contributeurs pour l'aide à la traduction française, le theorycraft et les correctifs de bugs.
+
+##Traductions : 
+
+- Traduction Templier : En attente.
+- Traduction Gladiateur : En attente.
+- Traduction Clerc : En attente.
+- Traduction Aède : en cour de traduction par Lunastellia
+- Traduction Assassin : En attente.
+- Traduction Rodeur : En attente.
+- Traduction Sorcier : En attente.
+- Traduction Spiritualiste : Terminé, par lunastellia.
 
