@@ -7,7 +7,7 @@
       28
     ],
     "Skill type": "Normal",
-    "Target": "Selected Target",
+    "Target": "Cible Sélectionnée",
     "Additional info": ["Jumpshot Possible", "Utilisable en Mouvement"],
     "28": {
       "id": 322,
@@ -28,7 +28,7 @@
       45
     ],
     "Skill type": "Normal",
-    "Target": "Self",
+    "Target": "Soi-même",
     "Additional info": ["Jumpshot Possible", "Utilisable en Mouvement"],
     "45": {
       "id": 245,
@@ -50,7 +50,7 @@
       48
     ],
     "Skill type": "Normal",
-    "Target": "Self",
+    "Target": "Soi-même",
     "Additional info": ["Jumpshot Possible", "Utilisable en Mouvement"],
     "48": {
       "id": 385,
@@ -70,7 +70,7 @@
       55
     ],
     "Skill type": "Normal",
-    "Target": "Selected Target",
+    "Target": "Cible Sélectionnée",
     "Additional info": [
       "Jumpshot Possible",
       "Dégâts en PVP = 120%"
@@ -98,7 +98,7 @@
       54
     ],
     "Skill type": "Normal",
-    "Target": "Selected Target",
+    "Target": "Cible Sélectionnée",
     "Additional info": [
       "Jumpshot Possible",
       "Dégâts en PVP = 130%"
@@ -157,7 +157,7 @@
       53
     ],
     "Skill type": "Normal",
-    "Target": "Area within a Radius of Target",
+    "Target": "Zone autour de la Cible",
     "Additional info": [
       "Jumpshot Possible",
       "Dégâts en PVP = 130%",
@@ -199,7 +199,7 @@
       52
     ],
     "Skill type": "Normal",
-    "Target": "Selected Target",
+    "Target": "Cible Sélectionnée",
     "Additional info": [
       "Jumpshot Possible"
     ],
@@ -272,7 +272,7 @@
       55
     ],
     "Skill type": "Chain Skills",
-    "Target": "Selected Target",
+    "Target": "Cible Sélectionnée",
     "Additional info": ["Jumpshot Possible", "Utilisable en Mouvement"],
     "55": {
       "id": 235,
@@ -299,7 +299,7 @@
       55
     ],
     "Skill type": "Normal",
-    "Target": "Selected Target",
+    "Target": "Cible Sélectionnée",
     "Additional info": ["Jumpshot Possible", "Utilisable en Mouvement"],
     "25": {
       "id": 236,
@@ -371,7 +371,7 @@
       50
     ],
     "Skill type": "Normal",
-    "Target": "Area within a Radius of Target",
+    "Target": "Zone autour de la Cible",
     "Additional info": [
       "Jumpshot Possible",
       "Cibles Max = 5"
@@ -405,7 +405,7 @@
       34
     ],
     "Skill type": "Normal",
-    "Target": "Area within a Radius of Target",
+    "Target": "Zone autour de la Cible",
     "Additional info": ["Jumpshot Possible", "Utilisable en Mouvement", "Cibles Max = 6"],
     "34": {
       "id": 264,
@@ -427,7 +427,7 @@
       55
     ],
     "Skill type": "Normal",
-    "Target": "Selected Target",
+    "Target": "Cible Sélectionnée",
     "52": {
       "id": 229,
       "name": "STR",
@@ -460,7 +460,7 @@
       55
     ],
     "Skill type": "Normal",
-    "Target": "Selected Target",
+    "Target": "Cible Sélectionnée",
     "Additional info": ["Jumpshot Possible", "Utilisable en Mouvement"],
     "52": {
       "id": 227,
@@ -497,7 +497,7 @@
       55
     ],
     "Skill type": "Normal",
-    "Target": "Selected Target",
+    "Target": "Cible Sélectionnée",
     "Additional info": [
       "Jumpshot Possible"
     ],
@@ -555,7 +555,7 @@
       20
     ],
     "Skill type": "Normal",
-    "Target": "Self",
+    "Target": "Soi-même",
     "Additional info": ["Jumpshot Possible", "Utilisable en Mouvement"],
     "20": {
       "id": 269,
@@ -579,7 +579,7 @@
       53
     ],
     "Skill type": "Normal",
-    "Target": "Self",
+    "Target": "Soi-même",
     "Additional info": ["Jumpshot Possible", "Utilisable en Mouvement"],
     "34": {
       "id": 241,
@@ -634,7 +634,7 @@
       53
     ],
     "Skill type": "Normal",
-    "Target": "Selected Target",
+    "Target": "Cible Sélectionnée",
     "Additional info": ["Jumpshot Possible", "Utilisable en Mouvement"],
     "28": {
       "id": 392,
@@ -696,7 +696,7 @@
       46
     ],
     "Skill type": "Chain Skills",
-    "Target": "Area within a Radius of Target",
+    "Target": "Zone autour de la Cible",
     "Additional info": [
       "Cibles Max = 3"
     ],
@@ -732,7 +732,7 @@
       54
     ],
     "Skill type": "Chain Skills",
-    "Target": "Selected Target",
+    "Target": "Cible Sélectionnée",
     "Additional info": ["Jumpshot Possible", "Utilisable en Mouvement"],
     "45": {
       "id": 247,
@@ -788,7 +788,7 @@
       51
     ],
     "Skill type": "Normal",
-    "Target": "Selected Target",
+    "Target": "Cible Sélectionnée",
     "Additional info": ["Jumpshot Possible", "Utilisable en Mouvement"],
     "45": {
       "id": 398,
@@ -819,7 +819,7 @@
       45
     ],
     "Skill type": "Normal",
-    "Target": "Area within a Radius of Target",
+    "Target": "Zone autour de la Cible",
     "Additional info": ["Jumpshot Possible", "Utilisable en Mouvement", "Cibles Max = 5"],
     "45": {
       "id": 396,
@@ -840,7 +840,7 @@
       50
     ],
     "Skill type": "Normal",
-    "Target": "Area within a Radius of Target",
+    "Target": "Zone autour de la Cible",
     "Additional info": ["Jumpshot Possible", "Utilisable en Mouvement", "Cibles Max = 18"],
     "50": {
       "id": 399,
@@ -861,7 +861,7 @@
       50
     ],
     "Skill type": "Normal",
-    "Target": "Area within a Radius of Target",
+    "Target": "Zone autour de la Cible",
     "Additional info": [
       "Cibles Max = 18",
       "Jumpshot Possible"
@@ -885,7 +885,7 @@
       45
     ],
     "Skill type": "Normal",
-    "Target": "Area within a Radius of Target",
+    "Target": "Zone autour de la Cible",
     "Additional info": [
       "Cibles Max = 12",
       "Jumpshot Possible"
@@ -909,7 +909,7 @@
       54
     ],
     "Skill type": "Normal",
-    "Target": "Self",
+    "Target": "Soi-même",
     "Additional info": ["Jumpshot Possible", "Utilisable en Mouvement"],
     "54": {
       "id": 232,
@@ -933,7 +933,7 @@
       54
     ],
     "Skill type": "Normal",
-    "Target": "Selected Target",
+    "Target": "Cible Sélectionnée",
     "Additional info": ["Jumpshot Possible", "Utilisable en Mouvement"],
     "45": {
       "id": 246,
@@ -989,7 +989,7 @@
       53
     ],
     "Skill type": "Normal",
-    "Target": "Selected Target",
+    "Target": "Cible Sélectionnée",
     "Additional info": [
       "Jumpshot Possible"
     ],
@@ -1025,7 +1025,7 @@
       40
     ],
     "Skill type": "Passive",
-    "Target": "Self",
+    "Target": "Soi-même",
     "20": {
       "id": 34,
       "name": "STR",
@@ -1051,7 +1051,7 @@
       52
     ],
     "Skill type": "Normal",
-    "Target": "Selected Target",
+    "Target": "Cible Sélectionnée",
     "Additional info": ["Jumpshot Possible", "Utilisable en Mouvement"],
     "40": {
       "id": 183,
@@ -1089,7 +1089,7 @@
       37
     ],
     "Skill type": "Normal",
-    "Target": "Self",
+    "Target": "Soi-même",
     "Additional info": ["Jumpshot Possible", "Utilisable en Mouvement"],
     "37": {
       "id": 287,

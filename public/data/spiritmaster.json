@@ -7,7 +7,7 @@
       20
     ],
     "Skill type": "Normal",
-    "Target": "Selected Target",
+    "Target": "Cible Sélectionnée",
     "Additional info": [
       "Jumpshot Possible"
     ],
@@ -33,7 +33,7 @@
       52
     ],
     "Skill type": "Normal",
-    "Target": "Selected Target",
+    "Target": "Cible Sélectionnée",
     "Additional info": [
       "Jumpshot Possible"
     ],
@@ -92,7 +92,7 @@
       53
     ],
     "Skill type": "Normal",
-    "Target": "Selected Target",
+    "Target": "Cible Sélectionnée",
     "Additional info": [
       "Jumpshot Possible"
     ],
@@ -201,7 +201,7 @@
       52
     ],
     "Skill type": "Normal",
-    "Target": "Selected Target",
+    "Target": "Cible Sélectionnée",
     "Additional info": [
       "Jumpshot Possible",
       "Cibles Max = 1"
@@ -264,7 +264,7 @@
       54
     ],
     "Skill type": "Normal",
-    "Target": "Selected Target",
+    "Target": "Cible Sélectionnée",
     "Additional info": [
       "Jumpshot Possible",
       "Utilisable en Mouvement"
@@ -338,7 +338,7 @@
       54
     ],
     "Skill type": "Normal",
-    "Target": "Selected Target",
+    "Target": "Cible Sélectionnée",
     "Additional info": [
       "Jumpshot Possible"
     ],
@@ -361,7 +361,7 @@
       45
     ],
     "Skill type": "Normal",
-    "Target": "Selected Target",
+    "Target": "Cible Sélectionnée",
     "Additional info": [
       "Jumpshot Possible"
     ],
@@ -437,7 +437,7 @@
       55
     ],
     "Skill type": "Normal",
-    "Target": "Group Member",
+    "Target": "Membres du Groupe",
     "Additional info": [
       "Jumpshot Possible",
       "Cibles Max =  6"
@@ -501,7 +501,7 @@
       55
     ],
     "Skill type": "Normal",
-    "Target": "Selected Target",
+    "Target": "Cible Sélectionnée",
     "Additional info": [
       "Jumpshot Possible"
     ],
@@ -526,7 +526,7 @@
       53
     ],
     "Skill type": "Normal",
-    "Target": "Selected Target",
+    "Target": "Cible Sélectionnée",
     "Additional info": [
       "Jumpshot Possible",
       "Dégâts en PVP = 80%"
@@ -565,7 +565,7 @@
       54
     ],
     "Skill type": "Normal",
-    "Target": "Selected Target",
+    "Target": "Cible Sélectionnée",
     "Additional info": [
       "Jumpshot Possible",
       "Utilisable en Mouvement"
@@ -646,7 +646,7 @@
       55
     ],
     "Skill type": "Normal",
-    "Target": "Selected Target",
+    "Target": "Cible Sélectionnée",
     "Additional info": [
       "Jumpshot Possible"
     ],
@@ -669,7 +669,7 @@
       48
     ],
     "Skill type": "Normal",
-    "Target": "Self",
+    "Target": "Soi-même",
     "Additional info": [
       "Jumpshot Possible",
       "Utilisable en Mouvement",
@@ -693,7 +693,7 @@
       28
     ],
     "Skill type": "Normal",
-    "Target": "Selected Target",
+    "Target": "Cible Sélectionnée",
     "Additional info": [
       "Jumpshot Possible",
       "Cibles Max = 1"
@@ -720,7 +720,7 @@
       54
     ],
     "Skill type": "Normal",
-    "Target": "Selected Target",
+    "Target": "Cible Sélectionnée",
     "Additional info": [
       "Jumpshot Possible"
     ],
@@ -780,7 +780,7 @@
       54
     ],
     "Skill type": "Normal",
-    "Target": "Selected Target",
+    "Target": "Cible Sélectionnée",
     "Additional info": [
       "Jumpshot Possible"
     ],
@@ -837,7 +837,7 @@
       52
     ],
     "Skill type": "Normal",
-    "Target": "Selected Target",
+    "Target": "Cible Sélectionnée",
     "Additional info": [
       "Jumpshot Possible",
       "Temps d'incantation non modifiable",
@@ -863,7 +863,7 @@
       50
     ],
     "Skill type": "Normal",
-    "Target": "Selected Target",
+    "Target": "Cible Sélectionnée",
     "Additional info": [
       "Jumpshot Possible"
     ],
@@ -980,7 +980,7 @@
       51
     ],
     "Skill type": "Normal",
-    "Target": "Selected Target",
+    "Target": "Cible Sélectionnée",
     "Additional info": [
       "Jumpshot Possible"
     ],
@@ -1013,7 +1013,7 @@
       22
     ],
     "Skill type": "Normal",
-    "Target": "Selected Target",
+    "Target": "Cible Sélectionnée",
     "Additional info": [
       "Jumpshot Possible",
       "Utilisable en Mouvement"
@@ -1037,7 +1037,7 @@
       37
     ],
     "Skill type": "Normal",
-    "Target": "Area within a Radius of Target",
+    "Target": "Zone autour de la Cible",
     "Additional info": [
       "Jumpshot Possible",
       "Temps d'incantation non modifiable",

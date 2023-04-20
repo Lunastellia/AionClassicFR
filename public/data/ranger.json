@@ -7,7 +7,7 @@
       22
     ],
     "Skill type": "Normal",
-    "Target": "Selected Target",
+    "Target": "Cible Sélectionnée",
     "Additional info": [
       "Utilisable en Mouvement"
     ],
@@ -31,7 +31,7 @@
       55
     ],
     "Skill type": "Normal",
-    "Target": "Self",
+    "Target": "Soi-même",
     "Additional info": [
       "Jumpshot Possible",
       "Utilisable en Mouvement"
@@ -66,7 +66,7 @@
       55
     ],
     "Skill type": "Normal",
-    "Target": "Self",
+    "Target": "Soi-même",
     "Additional info": [
       "Jumpshot Possible",
       "Utilisable en Mouvement"
@@ -103,7 +103,7 @@
       52
     ],
     "Skill type": "Normal",
-    "Target": "Self",
+    "Target": "Soi-même",
     "Additional info": [
       "Jumpshot Possible"
     ],
@@ -156,7 +156,7 @@
       54
     ],
     "Skill type": "Normal",
-    "Target": "Selected Target",
+    "Target": "Cible Sélectionnée",
     "Additional info": [
       "Jumpshot Possible"
     ],
@@ -179,7 +179,7 @@
       54
     ],
     "Skill type": "Normal",
-    "Target": "Selected Target",
+    "Target": "Cible Sélectionnée",
     "Additional info": [
       "Jumpshot Possible"
     ],
@@ -202,7 +202,7 @@
       48
     ],
     "Skill type": "Normal",
-    "Target": "Self",
+    "Target": "Soi-même",
     "Additional info": [
       "Jumpshot Possible",
       "Utilisable en Mouvement"
@@ -225,7 +225,7 @@
       28
     ],
     "Skill type": "Normal",
-    "Target": "Self",
+    "Target": "Soi-même",
     "Additional info": [
       "Jumpshot Possible",
       "Utilisable en Mouvement"
@@ -252,7 +252,7 @@
       54
     ],
     "Skill type": "Normal",
-    "Target": "Selected Target",
+    "Target": "Cible Sélectionnée",
     "Additional info": [
     ],
     "45": {
@@ -308,7 +308,7 @@
       31
     ],
     "Skill type": "Normal",
-    "Target": "Selected Target",
+    "Target": "Cible Sélectionnée",
     "Additional info": [
       "Jumpshot Possible"
     ],
@@ -330,7 +330,7 @@
       31
     ],
     "Skill type": "Normal",
-    "Target": "Selected Target",
+    "Target": "Cible Sélectionnée",
     "Additional info": [
       "Jumpshot Possible"
     ],
@@ -356,7 +356,7 @@
       52
     ],
     "Skill type": "Normal",
-    "Target": "Self",
+    "Target": "Soi-même",
     "Additional info": [
       "Jumpshot Possible"
     ],
@@ -417,7 +417,7 @@
       52
     ],
     "Skill type": "Normal",
-    "Target": "Self",
+    "Target": "Soi-même",
     "Additional info": [
       "Jumpshot Possible"
     ],
@@ -475,7 +475,7 @@
       45
     ],
     "Skill type": "Normal",
-    "Target": "Self",
+    "Target": "Soi-même",
     "Additional info": [
       "Jumpshot Possible",
       "Utilisable en Mouvement"
@@ -500,7 +500,7 @@
       55
     ],
     "Skill type": "Normal",
-    "Target": "Selected Target",
+    "Target": "Cible Sélectionnée",
     "Additional info": [
       "Jumpshot Possible",
       "Utilisable en Mouvement"
@@ -525,7 +525,7 @@
       37
     ],
     "Skill type": "Normal",
-    "Target": "Self",
+    "Target": "Soi-même",
     "Additional info": [
       "Jumpshot Possible",
       "Utilisable en Mouvement"
@@ -549,7 +549,7 @@
       53
     ],
     "Skill type": "Normal",
-    "Target": "Selected Target",
+    "Target": "Cible Sélectionnée",
     "Additional info": [
       "Jumpshot Possible",
       "Utilisable en Mouvement",
@@ -589,7 +589,7 @@
       54
     ],
     "Skill type": "Normal",
-    "Target": "Selected Target",
+    "Target": "Cible Sélectionnée",
     "Additional info": [
       "Jumpshot Possible",
       "Utilisable en Mouvement"
@@ -647,7 +647,7 @@
       55
     ],
     "Skill type": "Normal",
-    "Target": "Selected Target",
+    "Target": "Cible Sélectionnée",
     "Additional info": [
     ],
     "55": {
@@ -670,7 +670,7 @@
       45
     ],
     "Skill type": "Normal",
-    "Target": "Self",
+    "Target": "Soi-même",
     "Additional info": [
       "Jumpshot Possible",
       "Utilisable en Mouvement"
@@ -695,7 +695,7 @@
       20
     ],
     "Skill type": "Normal",
-    "Target": "Selected Target",
+    "Target": "Cible Sélectionnée",
     "Additional info": [
       "Jumpshot Possible"
     ],
@@ -718,7 +718,7 @@
       48
     ],
     "Skill type": "Normal",
-    "Target": "Self",
+    "Target": "Soi-même",
     "Additional info": [
       "Jumpshot Possible",
       "Utilisable en Mouvement"
@@ -742,7 +742,7 @@
       53
     ],
     "Skill type": "Normal",
-    "Target": "Selected Target",
+    "Target": "Cible Sélectionnée",
     "Additional info": [
       "Jumpshot Possible",
       "Utilisable en Mouvement"
@@ -783,7 +783,7 @@
       54
     ],
     "Skill type": "Normal",
-    "Target": "Selected Target",
+    "Target": "Cible Sélectionnée",
     "Additional info": [
       "Jumpshot Possible"
     ],
@@ -862,7 +862,7 @@
       55
     ],
     "Skill type": "Normal",
-    "Target": "Area within a Radius of Target",
+    "Target": "Zone autour de la Cible",
     "Additional info": [
       "Jumpshot Possible",
       "Cibles Max = 3"
@@ -939,7 +939,7 @@
       50
     ],
     "Skill type": "Normal",
-    "Target": "Selected Target",
+    "Target": "Cible Sélectionnée",
     "Additional info": [
       "Jumpshot Possible"
     ],
@@ -962,7 +962,7 @@
       45
     ],
     "Skill type": "Normal",
-    "Target": "Selected Target",
+    "Target": "Cible Sélectionnée",
     "Additional info": [
       "Jumpshot Possible"
     ],
@@ -985,7 +985,7 @@
       50
     ],
     "Skill type": "Normal",
-    "Target": "Selected Target",
+    "Target": "Cible Sélectionnée",
     "Additional info": [
       "Jumpshot Possible"
     ],
@@ -1008,7 +1008,7 @@
       45
     ],
     "Skill type": "Normal",
-    "Target": "Selected Target",
+    "Target": "Cible Sélectionnée",
     "Additional info": [
       "Jumpshot Possible"
     ],
@@ -1031,7 +1031,7 @@
       45
     ],
     "Skill type": "Normal",
-    "Target": "Self",
+    "Target": "Soi-même",
     "Additional info": [
       "Jumpshot Possible",
       "Utilisable en Mouvement"
@@ -1058,7 +1058,7 @@
       55
     ],
     "Skill type": "Normal",
-    "Target": "Self",
+    "Target": "Soi-même",
     "Additional info": [
       "Jumpshot Possible",
       "Utilisable en Mouvement"
@@ -1111,7 +1111,7 @@
       55
     ],
     "Skill type": "Normal",
-    "Target": "Self",
+    "Target": "Soi-même",
     "Additional info": [
       "Jumpshot Possible",
       "Utilisable en Mouvement"
@@ -1161,7 +1161,7 @@
       52
     ],
     "Skill type": "Normal",
-    "Target": "Self",
+    "Target": "Soi-même",
     "Additional info": [
       "Jumpshot Possible",
       "Utilisable en Mouvement"
@@ -1185,7 +1185,7 @@
       44
     ],
     "Skill type": "Normal",
-    "Target": "Self",
+    "Target": "Soi-même",
     "Additional info": [
       "Jumpshot Possible"
     ],
