@@ -3,6 +3,7 @@ import { DepGraph } from "dependency-graph";
 export interface AdditionalStigmaData {
   id: number;
   name: string;
+  icon: string;
   "Usage Cost": string;
   "Cast time": string;
   Cooldown: string;
