@@ -99,7 +99,7 @@ export const StigmaDescription: NextPage<StigmaDescriptionProps> = ({
         <div className={styles.divider}></div>
         {stigma.stigma[stigmaLvl]["Usage Cost"] && (
           <p>
-            <span className={styles.label}>Coût : </span>
+            <span className={styles.label}>Cout : </span>
             {stigma.stigma[stigmaLvl]["Usage Cost"]}
           </p>
         )}
