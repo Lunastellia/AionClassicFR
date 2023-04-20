@@ -78,7 +78,7 @@ export const StigmaDescription: NextPage<StigmaDescriptionProps> = ({
       ></span>
       <div className={styles.desc}>
         <p className={styles.name}>
-          {stigma.stigma[stigmaLvl].name}
+          {stigma.stigma[stigmaLvl].nameFR}
           {isAvailable && (
             <span className={styles.blockedText}>
               lvl {Math.min(...stigma.stigma.lvls)}
