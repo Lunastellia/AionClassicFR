@@ -15,22 +15,22 @@
     ],
     "48": {
       "id": 1184,
-      "name": "STR",
+      "name": "Soin compatissant I",
       "icon": "Sympathetic Heal I",
       "Usage Cost": "107 MP",
       "Cast time": "2 sec",
       "Cooldown": "10",
-      "Description": "Can be used on an ally within 25m to restore 1171 HP.",
+      "Description": "Restitue 1171 PV à un coéquipier ciblé dans un rayon de 25m ainsi qu'à vous-même. Utilisable uniquement sur les membres de votre groupe.",
       "Shards cost": 144
     },
     "54": {
       "id": 2149,
-      "name": "STR",
+      "name": "Soin compatissant II",
       "icon": "Sympathetic Heal II",
       "Usage Cost": "117 MP",
       "Cast time": "2 sec",
       "Cooldown": "10",
-      "Description": "Can be used on an ally within 25m to restore 1312 HP.",
+      "Description": "Restitue 1312 PV à un coéquipier ciblé dans un rayon de 25m ainsi qu'à vous-même. Utilisable uniquement sur les membres de votre groupe.",
       "Shards cost": 162
     }
   },
@@ -49,12 +49,12 @@
     ],
     "20": {
       "id": 1056,
-      "name": "STR",
+      "name": "Lumière aveuglante I",
       "icon": "Blinding Light I",
       "Usage Cost": "31 MP",
       "Cast time": "Instantané",
       "Cooldown": "300",
-      "Description": "Blinds the target for 20s.",
+      "Description": "Aveugle la cible pendant 20s.",
       "Shards cost": 60
     }
   },
@@ -72,12 +72,12 @@
     ],
     "55": {
       "id": 1033,
-      "name": "STR",
+      "name": "Invocation de foudre I",
       "icon": "Call Lightning I",
       "Usage Cost": "393 MP",
       "Cast time": "3 sec",
       "Cooldown": "120",
-      "Description": "Inflicts 2292 magical wind damage to a target within a 25m radius.",
+      "Description": "Inflige 2292 points de dégâts magiques de vent à une cible dans un rayon de 25m autour de vous.",
       "Abyss point": 152700,
       "Shards cost": 275
     }
@@ -97,12 +97,12 @@
     ],
     "28": {
       "id": 1060,
-      "name": "STR",
+      "name": "Blessure purulente I",
       "icon": "Festering Wound I",
       "Usage Cost": "21 MP",
       "Cast time": "Instantané",
       "Cooldown": "60",
-      "Description": "Inflicts 42 Magical Water Damage on a target within 15m, and reduces the effect of recovery magic it receives by 50% for 1m.",
+      "Description": "Inflige 42 points de dégâts magiques d'eau à une cible dans un rayon de 15m et réduit de 50% l'effet de la magie de récupération qu'elle subit pendant 1m.",
       "Shards cost": 84
     }
   },
@@ -122,23 +122,23 @@
     ],
     "50": {
       "id": 1044,
-      "name": "STR",
+      "name": "Invocation : Énergie noble I",
       "icon": "Summon Noble Energy I (A)",
       "Usage Cost": "202 MP",
       "Cast time": "Instantané",
       "Cooldown": "30",
-      "Description": "Summons a holy spirit near you. This spirit does not move from the summoned spot, and inflicts 1890 long-range fire damage to a selected target within a 30m radius. This spirit vanishes after a while and consumes its HP with each attack.",
+      "Description": "Invoque un esprit saint à vos côtés, qui reste à l'endroit où il est apparu et inflige 1890 points de dégâts magiques de feu à longue portée à une cible que vous avez choisie dans un rayon de 30m. Cet esprit disparaît après un moment et utilise ses PV pour attaquer.",
       "Abyss point": 38700,
       "Shards cost": 250
     },
     "53": {
       "id": 2145,
-      "name": "STR",
+      "name": "Invocation : Énergie noble II",
       "icon": "Summon Noble Energy II (A)",
       "Usage Cost": "224 MP",
       "Cast time": "Instantané",
       "Cooldown": "30",
-      "Description": "Summons a holy spirit near you. This spirit does not move from the summoned spot, and inflicts 2075 long-range fire damage on a selected target within a 30m radius. This spirit vanishes after a while and consumes its HP with each attack.",
+      "Description": "Invoque un esprit saint à vos côtés, qui reste à l'endroit où il est apparu et inflige 2075 points de dégâts magiques de feu à longue portée à une cible que vous avez choisie dans un rayon de 30m. Cet esprit disparaît après un moment et utilise ses PV pour attaquer.",
       "Abyss point": 85800,
       "Shards cost": 265
     }
@@ -159,23 +159,23 @@
     ],
     "50": {
       "id": 1043,
-      "name": "STR",
+      "name": "Invocation : Énergie noble I",
       "icon": "Summon Noble Energy I (E)",
       "Usage Cost": "202 MP",
       "Cast time": "Instantané",
       "Cooldown": "30",
-      "Description": "Summons a holy spirit near you. This spirit does not move from the summoned spot, and inflicts 1890 long-range fire damage to a selected target within a 30m radius. This spirit vanishes after a while and consumes its HP with each attack.",
+      "Description": "Invoque un esprit saint à vos côtés, qui reste à l'endroit où il est apparu et inflige 1890 points de dégâts magiques de feu à longue portée à une cible que vous avez choisie dans un rayon de 30m. Cet esprit disparaît après un moment et utilise ses PV pour attaquer.",
       "Abyss point": 38700,
       "Shards cost": 250
     },
     "53": {
       "id": 2144,
-      "name": "STR",
+      "name": "Invocation : Énergie noble II",
       "icon": "Summon Noble Energy II (E)",
       "Usage Cost": "224 MP",
       "Cast time": "Instantané",
       "Cooldown": "30",
-      "Description": "Summons a holy spirit near you. This spirit does not move from the summoned spot, and inflicts 2075 long-range fire damage on a selected target within a 30m radius. This spirit vanishes after a while and consumes its HP with each attack.",
+      "Description": "Invoque un esprit saint à vos côtés, qui reste à l'endroit où il est apparu et inflige 2075 points de dégâts magiques de feu à longue portée à une cible que vous avez choisie dans un rayon de 30m. Cet esprit disparaît après un moment et utilise ses PV pour attaquer.",
       "Abyss point": 85800,
       "Shards cost": 265
     }
@@ -201,62 +201,62 @@
     ],
     "25": {
       "id": 1160,
-      "name": "STR",
+      "name": "Éclat de récupération I",
       "icon": "Flash of Recovery I",
       "Usage Cost": "166 MP",
       "Cast time": "Instantané",
       "Cooldown": "30",
-      "Description": "Heals a target within 23m of you by 1194.",
+      "Description": "Restaurez 1194 PV d'une cible dans un rayon de 23m.",
       "Shards cost": 75
     },
     "31": {
       "id": 1161,
-      "name": "STR",
+      "name": "Éclat de récupération II",
       "icon": "Flash of Recovery II",
       "Usage Cost": "191 MP",
       "Cast time": "Instantané",
       "Cooldown": "30",
-      "Description": "Heals a target within 23m of you by 1465.",
+      "Description": "Restaurez 1465 PV d'une cible dans un rayon de 23m.",
       "Shards cost": 93
     },
     "37": {
       "id": 1162,
-      "name": "STR",
+      "name": "Éclat de récupération III",
       "icon": "Flash of Recovery III",
       "Usage Cost": "215 MP",
       "Cast time": "Instantané",
       "Cooldown": "30",
-      "Description": "Heals a target within 23m of you by 1728.",
+      "Description": "Restaurez 1728 PV d'une cible dans un rayon de 23m.",
       "Shards cost": 111
     },
     "43": {
       "id": 1179,
-      "name": "STR",
+      "name": "Éclat de récupération IV",
       "icon": "Flash of Recovery IV",
       "Usage Cost": "236 MP",
       "Cast time": "Instantané",
       "Cooldown": "30",
-      "Description": "Heals a target within 23m of you by 1978.",
+      "Description": "Restaurez 1978 PV d'une cible dans un rayon de 23m.",
       "Shards cost": 129
     },
     "49": {
       "id": 1185,
-      "name": "STR",
+      "name": "Éclat de récupération V",
       "icon": "Flash of Recovery V",
       "Usage Cost": "257 MP",
       "Cast time": "Instantané",
       "Cooldown": "30",
-      "Description": "Heals a target within 23m of you by 2210.",
+      "Description": "Restaurez 2210 PV d'une cible dans un rayon de 23m.",
       "Shards cost": 147
     },
     "55": {
       "id": 2155,
-      "name": "STR",
+      "name": "Éclat de récupération VI",
       "icon": "Flash of Recovery VI",
       "Usage Cost": "291 MP",
       "Cast time": "Instantané",
       "Cooldown": "30",
-      "Description": "Heals a target within 23m of you by 2420.",
+      "Description": "Restaurez 2420 PV d'une cible dans un rayon de 23m.",
       "Shards cost": 165
     }
   },
@@ -275,11 +275,11 @@
     ],
     "20": {
       "id": 1163,
-      "name": "STR",
+      "name": "Grâce du Seigneur Empyréen I",
       "icon": "Grace of Empyrean Lord I",
       "Cast time": "Instantané",
       "Cooldown": "180",
-      "Description": "For 12s, your MP level is preserved.",
+      "Description": "Pendant 12s, vous pouvez utiliser une compétence sans épuiser les PM normalement nécessaires.",
       "Shards cost": 60
     }
   },
@@ -298,11 +298,11 @@
     ],
     "55": {
       "id": 1032,
-      "name": "STR",
+      "name": "Générosité I",
       "icon": "Benevolence I",
       "Cast time": "Instantané",
       "Cooldown": "1",
-      "Description": "Healing Boost increased by 250, but 8% more MP is consumed while the skill is in use.\nActive Skill",
+      "Description": "La caractéristique Amél. soins augmente de 250, mais les PM consommés augmentent de 10% pendant l'utilisation de la compétence.\nCompétence active.",
       "Abyss point": 152700,
       "Shards cost": 275
     }
@@ -323,12 +323,12 @@
     ],
     "45": {
       "id": 2285,
-      "name": "STR",
+      "name": "Noble grâce I",
       "icon": "Noble Grace I",
       "Usage Cost": "238 MP",
       "Cast time": "Instantané",
       "Cooldown": "300",
-      "Description": "Increases the effect of healing magic on group members within 25 m of the caster by 50% for 15s.",
+      "Description": "Augmente de 50% l'effet de la magie de soins sur les membres du groupe à 25m au plus de l'utilisateur pendant 15s.",
       "Shards cost": 135
     }
   },
@@ -347,23 +347,23 @@
     ],
     "52": {
       "id": 1024,
-      "name": "STR",
+      "name": "Invvocation : Serviteur soigneur I",
       "icon": "Summon Healing Servant I (A)",
       "Usage Cost": "254 MP",
       "Cast time": "1 sec",
       "Cooldown": "60",
-      "Description": "Summons a Healing Energy spirit. This spirit does not move, but recovers the HP of you and your group within a 30 m radius by 361. The spirit disappears after a certain time.",
+      "Description": "Vous invoquez un serviteur soigneur près de vous. Vous êtes cloué sur place, ce qui restaure 361 PV chez vous et vos alliés dans un rayon de 30m. Cette force disparait au bout d'un moment.",
       "Abyss point": 78800,
       "Shards cost": 260
     },
     "55": {
       "id": 1026,
-      "name": "STR",
+      "name": "Invvocation : Serviteur soigneur II",
       "icon": "Summon Healing Servant II (A)",
       "Usage Cost": "264 MP",
       "Cast time": "1 sec",
       "Cooldown": "60",
-      "Description": "Summons a Healing Energy spirit. This spirit does not move, but recovers the HP of you and your group within a 30 m radius by 377. The spirit disappears after a certain time.",
+      "Description": "Vous invoquez un serviteur soigneur près de vous. Vous êtes cloué sur place, ce qui restaure 377 PV chez vous et vos alliés dans un rayon de 30m. Cette force disparait au bout d'un moment.",
       "Abyss point": 101800,
       "Shards cost": 275
     }
@@ -384,23 +384,23 @@
     ],
     "52": {
       "id": 1023,
-      "name": "STR",
+      "name": "Invvocation : Serviteur soigneur I",
       "icon": "Summon Healing Servant I (E)",
       "Usage Cost": "254 MP",
       "Cast time": "1 sec",
       "Cooldown": "60",
-      "Description": "Summons a Healing Energy spirit. This spirit does not move, but recovers the HP of you and your group within a 30 m radius by 361. The spirit disappears after a certain time.",
+      "Description": "Vous invoquez un serviteur soigneur près de vous. Vous êtes cloué sur place, ce qui restaure 361 PV chez vous et vos alliés dans un rayon de 30m. Cette force disparait au bout d'un moment.",
       "Abyss point": 78800,
       "Shards cost": 260
     },
     "55": {
       "id": 1025,
-      "name": "STR",
+      "name": "Invvocation : Serviteur soigneur II",
       "icon": "Summon Healing Servant II (E)",
       "Usage Cost": "264 MP",
       "Cast time": "1 sec",
       "Cooldown": "60",
-      "Description": "Summons a Healing Energy spirit. This spirit does not move, but recovers the HP of you and your group within a 30 m radius by 377. The spirit disappears after a certain time.",
+      "Description": "Vous invoquez un serviteur soigneur près de vous. Vous êtes cloué sur place, ce qui restaure 377 PV chez vous et vos alliés dans un rayon de 30m. Cette force disparait au bout d'un moment.",
       "Abyss point": 101800,
       "Shards cost": 275
     }
@@ -420,12 +420,12 @@
     ],
     "44": {
       "id": 1180,
-      "name": "STR",
+      "name": "Splendeur de purification I",
       "icon": "Splendor of Purification I",
       "Usage Cost": "37 MP",
       "Cast time": "1 sec",
       "Cooldown": "10",
-      "Description": "Removes all debuffs from you and group members within a 25m radius.",
+      "Description": "Soigne toutes vos altérations d'état et celles de vos coéquipiers dans un rayon de 26m.",
       "Shards cost": 132
     }
   },
@@ -446,32 +446,32 @@
     ],
     "40": {
       "id": 1089,
-      "name": "STR",
+      "name": "Splendeur de récupération I",
       "icon": "Splendor of Recovery I",
       "Usage Cost": "360 MP",
       "Cast time": "2 sec",
       "Cooldown": "60",
-      "Description": "Restores the HP of you and your group members within a 25m radius by 2041.",
+      "Description": "Vous restaurez, à vous et vos coéquipiers, 2041 PV dans un rayon de 25m.",
       "Shards cost": 120
     },
     "46": {
       "id": 1182,
-      "name": "STR",
+      "name": "Splendeur de récupération II",
       "icon": "Splendor of Recovery II",
       "Usage Cost": "393 MP",
       "Cast time": "2 sec",
       "Cooldown": "60",
-      "Description": "Restores the HP of you and your group members within a 25m radius by 2306.",
+      "Description": "Vous restaurez, à vous et vos coéquipiers, 2306 PV dans un rayon de 25m.",
       "Shards cost": 138
     },
     "52": {
       "id": 2141,
-      "name": "STR",
+      "name": "Splendeur de récupération III",
       "icon": "Splendor of Recovery III",
       "Usage Cost": "447 MP",
       "Cast time": "2 sec",
       "Cooldown": "60",
-      "Description": "Restores the HP of you and your group members within a 25m radius by 2548.",
+      "Description": "Vous restaurez, à vous et vos coéquipiers, 2548 PV dans un rayon de 25m.",
       "Shards cost": 156
     }
   },
@@ -493,45 +493,45 @@
     ],
     "45": {
       "id": 1039,
-      "name": "STR",
+      "name": "Vide-mémoire I",
       "icon": "Shatter Memory I",
       "Usage Cost": "211 MP",
       "Cast time": "Instantané",
       "Cooldown": "120",
-      "Description": "Decreases the Enmity of a target within a 25m radius.",
+      "Description": "Réduit l'hostilité d'une cible à votre égard dans un rayon de 25m.",
       "Abyss point": 13750,
       "Shards cost": 225
     },
     "48": {
       "id": 2128,
-      "name": "STR",
+      "name": "Vide-mémoire II",
       "icon": "Shatter Memory II",
       "Usage Cost": "222 MP",
       "Cast time": "Instantané",
       "Cooldown": "120",
-      "Description": "Decreases the Enmity of a target within a 25m radius.",
+      "Description": "Réduit l'hostilité d'une cible à votre égard dans un rayon de 25m.",
       "Abyss point": 26500,
       "Shards cost": 240
     },
     "51": {
       "id": 2135,
-      "name": "STR",
+      "name": "Vide-mémoire III",
       "icon": "Shatter Memory III",
       "Usage Cost": "236 MP",
       "Cast time": "Instantané",
       "Cooldown": "120",
-      "Description": "Decreases the Enmity of a target within a 25m radius.",
+      "Description": "Réduit l'hostilité d'une cible à votre égard dans un rayon de 25m.",
       "Abyss point": 34500,
       "Shards cost": 255
     },
     "54": {
       "id": 2151,
-      "name": "STR",
+      "name": "Vide-mémoire IV",
       "icon": "Shatter Memory IV",
       "Usage Cost": "257 MP",
       "Cast time": "Instantané",
       "Cooldown": "120",
-      "Description": "Decreases the Enmity of a target within a 25m radius.",
+      "Description": "Réduit l'hostilité d'une cible à votre égard dans un rayon de 25m.",
       "Abyss point": 45700,
       "Shards cost": 270
     }
@@ -553,45 +553,45 @@
     ],
     "45": {
       "id": 1040,
-      "name": "STR",
+      "name": "Chaîne de souffrance I",
       "icon": "Chain of Suffering I",
       "Usage Cost": "317 MP",
       "Cast time": "2 sec",
       "Cooldown": "300",
-      "Description": "Inflicts 532 earth damage to a target within a 25m radius, and deals additional 507 damage every 12s for 2m. In addition, reduces the target's Magic Resistance by 400. If the target dies while the skill is in effect, it is resurrected at its registered Kisk or Obelisk.",
+      "Description": "Inflige 532 points de dégâts magiques de terre à une cible dans un rayon de 25m, puis 507 points de dégâts supplémentaires toutes les 12s pendant 2m et réduit également Rés. magique de 400. Si la cible meurt tandis que l'effet est actif, elle réapparaitre à son point d'ancrage.",
       "Abyss point": 13750,
       "Shards cost": 225
     },
     "48": {
       "id": 2129,
-      "name": "STR",
+      "name": "Chaîne de souffrance II",
       "icon": "Chain of Suffering II",
       "Usage Cost": "333 MP",
       "Cast time": "2 sec",
       "Cooldown": "300",
-      "Description": "Inflicts 557 earth damage to a target within a 25m radius, and deals additional 531 damage every 12s for 2m. In addition, reduces the target's Magic Resistance by 400. If the target dies while the skill is in effect, it is resurrected at its registered Kisk or Obelisk.",
+      "Description": "Inflige 557 points de dégâts magiques de terre à une cible dans un rayon de 25m, puis 531 points de dégâts supplémentaires toutes les 12s pendant 2m et réduit également Rés. magique de 400. Si la cible meurt tandis que l'effet est actif, elle réapparaitre à son point d'ancrage.",
       "Abyss point": 26500,
       "Shards cost": 240
     },
     "51": {
       "id": 2136,
-      "name": "STR",
+      "name": "Chaîne de souffrance III",
       "icon": "Chain of Suffering III",
       "Usage Cost": "355 MP",
       "Cast time": "2 sec",
       "Cooldown": "300",
-      "Description": "Inflicts 590 earth damage to a target within a 25m radius, and deals additional 562 damage every 12s for 2m. In addition, reduces the target's Magic Resistance by 400. If the target dies while the skill is in effect, it is resurrected at its registered Kisk or Obelisk.",
+      "Description": "Inflige 590 points de dégâts magiques de terre à une cible dans un rayon de 25m, puis 562 points de dégâts supplémentaires toutes les 12s pendant 2m et réduit également Rés. magique de 400. Si la cible meurt tandis que l'effet est actif, elle réapparaitre à son point d'ancrage.",
       "Abyss point": 34500,
       "Shards cost": 255
     },
     "54": {
       "id": 2152,
-      "name": "STR",
+      "name": "Chaîne de souffrance IV",
       "icon": "Chain of Suffering IV",
       "Usage Cost": "386 MP",
       "Cast time": "2 sec",
       "Cooldown": "300",
-      "Description": "Inflicts 642 earth damage to a target within a 25m radius, and deals additional 612 damage every 12s for 2m. In addition, reduces the target's Magic Resistance by 400. If the target dies while the skill is in effect, it is resurrected at its registered Kisk or Obelisk.",
+      "Description": "Inflige 642 points de dégâts magiques de terre à une cible dans un rayon de 25m, puis 612 points de dégâts supplémentaires toutes les 12s pendant 2m et réduit également Rés. magique de 400. Si la cible meurt tandis que l'effet est actif, elle réapparaitre à son point d'ancrage.",
       "Abyss point": 45700,
       "Shards cost": 270
     }
@@ -610,12 +610,12 @@
     ],
     "54": {
       "id": 1030,
-      "name": "STR",
+      "name": "Terre vengeresse I",
       "icon": "Punishing Earth I",
       "Usage Cost": "205 MP",
       "Cast time": "2.5 sec",
       "Cooldown": "30",
-      "Description": "Inflicts 1286 earth damage to a target within a 25m radius.\nChain Skill Level 1",
+      "Description": "Inflige 1286 points de dégâts magiques de terre à une cible dans un rayon de 25m autour de vous.\nCompétence d'enchaînement, phase 1.",
       "Shards cost": 162
     }
   },
@@ -637,52 +637,52 @@
     ],
     "28": {
       "id": 1034,
-      "name": "STR",
+      "name": "Colère de la Terre I",
       "icon": "Earth's Wrath I",
       "Usage Cost": "120 MP",
       "Cast time": "1.5 sec",
       "Cooldown": "12",
-      "Description": "Inflicts 222 earth damage to a target within a 25m radius, and deals periodic 212 damage every 3s for 9s.",
+      "Description": "Inflige 222 points de dégâts magiques de terre à une cible dans un rayon de 25m autour de vous, et 212 points de dégâts supplémentaires toutes les 3s pendant 9s.",
       "Shards cost": 84
     },
     "34": {
       "id": 1035,
-      "name": "STR",
+      "name": "Colère de la Terre II",
       "icon": "Earth's Wrath II",
       "Usage Cost": "149 MP",
       "Cast time": "1.5 sec",
       "Cooldown": "12",
-      "Description": "Inflicts 257 earth damage to a target within a 25m radius, and deals periodic 245 damage every 3s for 9s.",
+      "Description": "Inflige 257 points de dégâts magiques de terre à une cible dans un rayon de 25m autour de vous, et 245 points de dégâts supplémentaires toutes les 3s pendant 9s.",
       "Shards cost": 102
     },
     "40": {
       "id": 1036,
-      "name": "STR",
+      "name": "Colère de la Terre III",
       "icon": "Earth's Wrath III",
       "Usage Cost": "170 MP",
       "Cast time": "1.5 sec",
       "Cooldown": "12",
-      "Description": "Inflicts 282 earth damage to a target within a 25m radius, and deals periodic 269 damage every 3s for 9s.",
+      "Description": "Inflige 282 points de dégâts magiques de terre à une cible dans un rayon de 25m autour de vous, et 269 points de dégâts supplémentaires toutes les 3s pendant 9s.",
       "Shards cost": 120
     },
     "46": {
       "id": 1037,
-      "name": "STR",
+      "name": "Colère de la Terre IV",
       "icon": "Earth's Wrath IV",
       "Usage Cost": "191 MP",
       "Cast time": "1.5 sec",
       "Cooldown": "12",
-      "Description": "Inflicts 317 earth damage to a target within a 25m radius, and deals periodic 302 damage every 3s for 9s.",
+      "Description": "Inflige 317 points de dégâts magiques de terre à une cible dans un rayon de 25m autour de vous, et 302 points de dégâts supplémentaires toutes les 3s pendant 9s.",
       "Shards cost": 138
     },
     "52": {
       "id": 2140,
-      "name": "STR",
+      "name": "Colère de la Terre V",
       "icon": "Earth's Wrath V",
       "Usage Cost": "219 MP",
       "Cast time": "1.5 sec",
       "Cooldown": "12",
-      "Description": "Inflicts 354 earth damage to a target within a 25m radius, and deals periodic 338 damage every 3s for 9s.",
+      "Description": "Inflige 354 points de dégâts magiques de terre à une cible dans un rayon de 25m autour de vous, et 338 points de dégâts supplémentaires toutes les 3s pendant 9s.",
       "Shards cost": 156
     }
   },
@@ -703,45 +703,45 @@
     ],
     "45": {
       "id": 1038,
-      "name": "STR",
+      "name": "Splendeur de renaissance I",
       "icon": "Splendor of Rebirth I",
       "Usage Cost": "290 MP",
       "Cast time": "2 sec",
       "Cooldown": "60",
-      "Description": "Instantly recovers the HP of a target within a 25m radius by 320, and recovers its HP by 320 every 3s for 21s. Physical Def also increases by 200.",
+      "Description": "Restaure instantanément 320 PV à une cible dans un rayon de 25m et lui restaure également 320 PV toutes les 3s pendant 21s. La caractéristique Déf. Physique est aussi augmentée de 200.",
       "Abyss point": 13750,
       "Shards cost": 225
     },
     "48": {
       "id": 2127,
-      "name": "STR",
+      "name": "Splendeur de renaissance II",
       "icon": "Splendor of Rebirth II",
       "Usage Cost": "302 MP",
       "Cast time": "2 sec",
       "Cooldown": "60",
-      "Description": "Instantly recovers the HP of a target within a 25m radius by 338, and recovers its HP by 338 every 3s for 21s. Physical Def also increases by 200.",
+      "Description": "Restaure instantanément 338 PV à une cible dans un rayon de 25m et lui restaure également 338 PV toutes les 3s pendant 21s. La caractéristique Déf. Physique est aussi augmentée de 200.",
       "Abyss point": 26500,
       "Shards cost": 240
     },
     "51": {
       "id": 2134,
-      "name": "STR",
+      "name": "Splendeur de renaissance III",
       "icon": "Splendor of Rebirth III",
       "Usage Cost": "314 MP",
       "Cast time": "2 sec",
       "Cooldown": "60",
-      "Description": "Instantly recovers the HP of a target within a 25m radius by 356, and recovers its HP by 356 every 3s for 21s. Physical Def also increases by 200.",
+      "Description": "Restaure instantanément 356 PV à une cible dans un rayon de 25m et lui restaure également 356 PV toutes les 3s pendant 21s. La caractéristique Déf. Physique est aussi augmentée de 200.",
       "Abyss point": 34500,
       "Shards cost": 255
     },
     "54": {
       "id": 2150,
-      "name": "STR",
+      "name": "Splendeur de renaissance IV",
       "icon": "Splendor of Rebirth IV",
       "Usage Cost": "326 MP",
       "Cast time": "2 sec",
       "Cooldown": "60",
-      "Description": "Instantly recovers the HP of a target within a 25m radius by 373, and recovers its HP by 373 every 3s for 21s. Physical Def also increases by 200.",
+      "Description": "Restaure instantanément 373 PV à une cible dans un rayon de 25m et lui restaure également 373 PV toutes les 3s pendant 21s. La caractéristique Déf. Physique est aussi augmentée de 200.",
       "Abyss point": 45700,
       "Shards cost": 270
     }
@@ -760,11 +760,11 @@
     ],
     "28": {
       "id": 1098,
-      "name": "STR",
+      "name": "Condition inverse I",
       "icon": "Reverse Condition I",
       "Cast time": "1 sec",
       "Cooldown": "600",
-      "Description": "Exchanges your current HP with your MP.",
+      "Description": "Intervertit vos PV et vos PM.",
       "Shards cost": 84
     }
   },
@@ -782,12 +782,12 @@
     ],
     "45": {
       "id": 1041,
-      "name": "STR",
+      "name": "Toucher de réincarnation I",
       "icon": "Hand of Reincarnation I",
       "Usage Cost": "158 MP",
       "Cast time": "1 sec",
       "Cooldown": "300",
-      "Description": "Grants a blessing to a group member within a 25m radius that lasts for 5m. If the group member dies while the blessing is in effect, they are resurrected with their HP and MP at 50%.",
+      "Description": "Bénit un membre du groupe dans un rayon de 25m autour de vous, et cette bénédiction dure pendant 5m. Si la cible meurt pendant que la bénédiction est active, elle ressuscite avec 50% de ses PV et PM.",
       "Abyss point": 13750,
       "Shards cost": 225
     }
@@ -807,12 +807,12 @@
     ],
     "34": {
       "id": 1102,
-      "name": "STR",
+      "name": "Sagesse du sage I",
       "icon": "Sage's Wisdom I",
       "Usage Cost": "187 MP",
       "Cast time": "Instantané",
       "Cooldown": "300",
-      "Description": "Reduces the casting time of all your magic skills by 50% for 10s.",
+      "Description": "Réduit le temps d'incantation de toutes vos compétences magiques de 50% pendant 10s.",
       "Shards cost": 102
     }
   },
@@ -831,12 +831,12 @@
     ],
     "45": {
       "id": 1193,
-      "name": "STR",
+      "name": "Lumière de Marchutan ancestrale I",
       "icon": "Ancestral Marchutan's Light I",
       "Usage Cost": "351 MP",
       "Cast time": "3 sec",
       "Cooldown": "180",
-      "Description": "Stigma skill of an Ancient Daeva. Recovers the HP of a target within a 25m radius of you and that of up to 6 allies within a 25m radius of the target by 1154, and forms a protective shield for 10s that can block 1156 damage each time, up to 1156 damage, whenever you receive attack.",
+      "Description": "Une Compétence de Stigma des ancien Daevas. Restitue 1154 PV à une cible dans un rayon de 25m autour de vous et à 6 alliés maximum dans un rayon de 25m autour de la cible, et crée un bouclier protecteur pendant 10s qui peut bloquer 1156 points de dégâts à la fois, jusqu'à 1156 points de dégâts, lorsque vous êtes sous l'effet de Attaque.",
       "Shards cost": 135
     }
   },
@@ -855,12 +855,12 @@
     ],
     "50": {
       "id": 1050,
-      "name": "STR",
+      "name": "Splendeur de Marchutan I",
       "icon": "Marchutan's Splendor I",
       "Usage Cost": "498 MP",
       "Cast time": "3 sec",
       "Cooldown": "180",
-      "Description": "Recovers the HP of a target within a 25m radius of you and up to 6 allies within a 25m radius of the target by 1403, and forms a shield for 10s that can block 1683 damage each time, up to 1683 damage, whenever you receive attack.",
+      "Description": "Restitue 1403 PV à une cible dans un rayon de 25m autour de vous et à 6 alliés maximum dans un rayon de 25m autour de la cible, et crée un bouclier protecteur pendant 10s qui peut bloquer 1403 points de dégâts à la fois, jusqu'à 1403 points de dégâts, lorsque vous êtes sous l'effet de Attaque.",
       "Shards cost": 150
     }
   },
@@ -884,7 +884,7 @@
       "Usage Cost": "351 MP",
       "Cast time": "3 sec",
       "Cooldown": "180",
-      "Description": "Stigma skill of an Ancient Daeva. Instantly recovers HP of target within a 25m radius of you and that of up to 6 allies within a 25m radius of the target by 1154, and additionally recovers their HP by 231 every 2s for 10s.",
+      "Description": "Une Compétence de Stigma des ancien Daevas. Restitue 1154 PV à une cible dans un rayon de 25m autour de vous et à 6 alliés maximum dans un rayon de 25m autour de la cible, et restaure également 231 PV toutes les 2s pendant 10s.",
       "Shards cost": 135
     }
   },
@@ -908,7 +908,7 @@
       "Usage Cost": "498 MP",
       "Cast time": "3 sec",
       "Cooldown": "180",
-      "Description": "Instantly recovers the HP of a target within a 25m radius of you and up to 6 allies within a 25m radius of the target by 1403, and additionally recovers their HP by 336 every 2s for 10s.",
+      "Description": "Une Compétence de Stigma des ancien Daevas. Restitue 1403 PV à une cible dans un rayon de 25m autour de vous et à 6 alliés maximum dans un rayon de 25m autour de la cible, et restaure également 336 PV toutes les 2s pendant 10s.",
       "Shards cost": 150
     }
   },
@@ -927,11 +927,12 @@
     ],
     "45": {
       "id": 1048,
+      "name": "Stabilité I",
       "icon": "Stability I",
       "Usage Cost": "123 MP",
       "Cast time": "1 sec",
       "Cooldown": "600",
-      "Description": "Calms a target within 25m of you and up to 6 enemies within 20m of the target, reducing their Enmity towards you.",
+      "Description": "Réduit l'hostilité à votre égard d'une cible dans un rayon de 25m autour de vous et des 6 ennemis maximum dans un rayon de 20m autour de la cible.",
       "Shards cost": 135
     }
   },
@@ -950,23 +951,23 @@
     ],
     "52": {
       "id": 1027,
-      "name": "STR",
+      "name": "Détonation affaiblisante I",
       "icon": "Enfeebling Burst I",
       "Usage Cost": "244 MP",
       "Cast time": "1 sec",
       "Cooldown": "90",
-      "Description": "Instantly inflicts 202 wind damage to a target within a 25m radius, and inflicts periodic 193 earth damage to it every 3s for 27s, while reducing its Physical Attack by 50.",
+      "Description": "Inflige instantanément 202 points de dégâts magiques de vent à la cible dans un rayon de 25m, et 193 points de dégâts magiques de terre supplémentaire toutes les 3s pendant 27s. Réduit également sa caractéristique Attaque physique de 50.",
       "Abyss point": 78800,
       "Shards cost": 260
     },
     "55": {
       "id": 1028,
-      "name": "STR",
+      "name": "Détonation affaiblisante II",
       "icon": "Enfeebling Burst II",
       "Usage Cost": "262 MP",
       "Cast time": "1 sec",
       "Cooldown": "90",
-      "Description": "Instantly inflicts 217 wind damage to a target within a 25m radius, and inflicts periodic 207 earth damage to it every 3s for 27s, while reducing its Physical Attack by 50.",
+      "Description": "Inflige instantanément 217 points de dégâts magiques de vent à la cible dans un rayon de 25m, et 207 points de dégâts magiques de terre supplémentaire toutes les 3s pendant 27s. Réduit également sa caractéristique Attaque physique de 50.",
       "Abyss point": 101800,
       "Shards cost": 275
     }
@@ -987,23 +988,23 @@
     ],
     "50": {
       "id": 1042,
-      "name": "STR",
+      "name": "Ondulation de purification I",
       "icon": "Ripple of Purification I",
       "Usage Cost": "748 MP",
       "Cast time": "2 sec",
       "Cooldown": "120",
-      "Description": "Removes up to 3 debuffs cast on you and up to 6 allies within a 20m radius of you. Recovers HP by 3706.",
+      "Description": "Dissipe jusqu'à 3 altérations d'état qui vous affectent, ou qui touchent un maximum de 6 alliés dans un rayon de 20m autour de vous. Récupère aussi 3706 PV.",
       "Abyss point": 38700,
       "Shards cost": 250
     },
     "53": {
       "id": 2143,
-      "name": "STR",
+      "name": "Ondulation de purification II",
       "icon": "Ripple of Purification II",
       "Usage Cost": "774 MP",
       "Cast time": "2 sec",
       "Cooldown": "120",
-      "Description": "Removes up to 3 debuffs cast on you and up to 6 allies within a 20m radius of you. Recovers HP by 3881.",
+      "Description": "Dissipe jusqu'à 3 altérations d'état qui vous affectent, ou qui touchent un maximum de 6 alliés dans un rayon de 20m autour de vous. Récupère aussi 3706 PV.",
       "Abyss point": 85800,
       "Shards cost": 265
     }
