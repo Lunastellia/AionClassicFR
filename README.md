@@ -8,16 +8,16 @@ https://lunastellia.github.io/AionClassicFR/
 
 • Si vous souhaitez participer aux traductions, l'emplacement des fichiers se situe dans "public" > "data" > "*.json"
 
-##Credits :
+## Credits :
 
 - L'auteur original du code : https://github.com/Persepha/Aion-classic-stigma-calculator
 - Merci aux contributeurs pour l'aide à la traduction française, le theorycraft et les correctifs de bugs.
 
-##Traductions : 
+## Traductions : 
 
 - Traduction Templier : En attente.
 - Traduction Gladiateur : En attente.
-- Traduction Clerc : En attente.
+- Traduction Clerc : Terminé, par Healiha.
 - Traduction Aède : en cour de traduction par Lunastellia
 - Traduction Assassin : En attente.
 - Traduction Rodeur : En attente.
