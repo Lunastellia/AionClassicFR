@@ -3,7 +3,7 @@ import { NextPage } from "next";
 
 import styles from "./CharLvlPicker.module.css";
 import { CharLvlPickerProps } from "@/components/CharLvlPicker/CharLvlPicker.props";
-import { MAX_CHARARCTER_LVL, MIN_CHARARCTER_LVL } from "@/utils/consts";
+import { MAX_CHARARCTER_LVL, MIN_CHARARCTER_LVL, DEF_CHARARCTER_LVL } from "@/utils/consts";
 import { useDebounce } from "@/hooks/useDebounce";
 
 export const CharLvlPicker: NextPage<CharLvlPickerProps> = ({
