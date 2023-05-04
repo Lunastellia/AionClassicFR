@@ -21,6 +21,7 @@ import { StigmaCostPanel } from "@/components/StigmaCostPanel";
 import {
   MAX_ADVANCED_STIGMA_SLOTS,
   MAX_CHARARCTER_LVL,
+  DEF_CHARARCTER_LVL,
   MAX_DEFAULT_STIGMA_SLOTS,
 } from "@/utils/consts";
 import { FactionPicker } from "@/components/FactionPicker";
@@ -40,7 +41,7 @@ export default function Home() {
     ClassesEnum.FIGHTER
   );
 
-  const [characterLvl, setCharacterLvl] = useState<number>(MAX_CHARARCTER_LVL);
+  const [characterLvl, setCharacterLvl] = useState<number>(DEF_CHARARCTER_LVL);
 
   const [numberDefaultSlots, setNumberDefaultSlots] = useState<number>(
     MAX_DEFAULT_STIGMA_SLOTS
