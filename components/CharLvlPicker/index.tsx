@@ -33,7 +33,7 @@ export const CharLvlPicker: NextPage<CharLvlPickerProps> = ({
 
   const onChangeInput = (event: React.ChangeEvent<HTMLInputElement>) => {
     const selectedLvl = parseInt(event.target.value);
-    setValue(selectedLvl ? selectedLvl : MAX_CHARARCTER_LVL);
+    setValue(selectedLvl ? selectedLvl : DEF_CHARARCTER_LVL);
   };
 
   return (
