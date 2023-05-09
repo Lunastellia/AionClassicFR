@@ -3,10 +3,13 @@
 https://lunastellia.github.io/AionClassicFR/
 
 • Aion classic Calculateur de stigma (Fr). Mise à jour Aion Classic EU (patch d'équilibrage KR 2.4.
+> Si vous souhaitez participer aux traductions, l'emplacement des fichiers se situe dans "public" > "data" > "*.json",
+> vous pouvez commit directement les modifications, pour modifier une traduction vous devez modifier la ligne "<name>" et laisser le nom en anglais dans "<icon>". 
 
-## Traductions :
+## Mise à jour :
 
-• Si vous souhaitez participer aux traductions, l'emplacement des fichiers se situe dans "public" > "data" > "*.json"
+> Le niveaux par defauts est regler sur "50" au lieux de "55" pour corespondre avec la version actuel.
+> Corrections de bugs sur le rôdeur, templier et Sorcier, les conditions pour équiper certaines "stigmas sup" étaient incorects.
 
 ## Credits :
 
